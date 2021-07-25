@@ -1,3 +1,30 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Java](#java)
+- [框架](#%E6%A1%86%E6%9E%B6)
+- [并发](#%E5%B9%B6%E5%8F%91)
+- [数据库](#%E6%95%B0%E6%8D%AE%E5%BA%93)
+- [中间件](#%E4%B8%AD%E9%97%B4%E4%BB%B6)
+  - [缓存](#%E7%BC%93%E5%AD%98)
+  - [消息队列](#%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97)
+- [Web架构](#web%E6%9E%B6%E6%9E%84)
+- [设计模式](#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
+- [计算机网络](#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
+- [数据结构与算法](#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
+- [分布式](#%E5%88%86%E5%B8%83%E5%BC%8F)
+- [操作系统](#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
+- [Linux](#linux)
+- [工具](#%E5%B7%A5%E5%85%B7)
+- [编程之术](#%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%9C%AF)
+- [面试](#%E9%9D%A2%E8%AF%95)
+- [其他](#%E5%85%B6%E4%BB%96)
+  - [Docker](#docker)
+- [免责声明](#%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 本人断断续续花了一个多月的时间，从各个学习网站上收集了常用的 Java 电子书、个人笔记和面试资料，在这里分享有需要的人，希望可以帮助到曾经像我一样的新手，节省下找资料的时间。
 
 本仓库资源持续更新中，小伙伴们也可以帮忙一起完善书单~
