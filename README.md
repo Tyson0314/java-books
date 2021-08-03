@@ -99,7 +99,7 @@
 - HeadFirst设计模式       [百度云下载链接](https://pan.baidu.com/s/1WmHtJwtYhnqWz-hb7gPagw)  提取码：hf6n
 - 大话设计模式     [百度云下载链接](https://pan.baidu.com/s/1ZbG0uKBZUQiZtWLPKrr9kA)  提取码：il5z
 - 设计模式_可复用面向对象软件的基础       [百度云下载链接](https://pan.baidu.com/s/1AgPkfdrYZQI8AKX4PusmPA)  提取码：wgjs
-- 图解设计模式       [百度云下载链接](https://pan.baidu.com/s/1DHVqpozmS3E8oXOpKSkIbA)  提取码：wgjs
+- 图解设计模式       [百度云下载链接](https://pan.baidu.com/s/1xQTxgVAKe56o60VX9NpkKg)  提取码：11n7
 - 设计模式之禅（第2版）    [百度云下载链接](https://pan.baidu.com/s/1jblCOohQmO3TL_3S7yYxpg)  提取码：cgqs
 
 # 计算机网络
@@ -142,7 +142,7 @@
 
 - Maven 实战       [百度云下载链接](https://pan.baidu.com/s/1uA69xLuXP0NmIE8tr_BlfQ)  提取码：v9lw
 - Vim 中文手册       [百度云下载链接](https://pan.baidu.com/s/1mepVOEAaLq7Cks5460ydRQ) 提取码：0zlj
-- Pro Git 中文版       [百度云下载链接](https://pan.baidu.com/s/1Q6Y_Hj4QxaRMJMK8tXewzw) 提取码：75gd
+- Pro Git 中文版       [百度云下载链接](https://pan.baidu.com/s/1PnKsZNwnP1axQP8CYHOygg) 提取码：8xmg
 
 # 编程之术
 
