@@ -58,6 +58,7 @@
 
 # 并发
 
+- 深入浅出Java多线程--RedSpider社区几位大佬编写的，强推！ [百度云下载链接](https://pan.baidu.com/s/1v5NOm04u8MFocWxBevdQ_Q)  提取码：q1l5 
 - Java并发编程实战（中文版） [百度云下载链接](https://pan.baidu.com/s/1nZuirC0iZCLO-E7CGnGNdg) 提取码：r6tu
 - Java多线程编程核心技术  [百度云下载链接](https://pan.baidu.com/s/1nZuirC0iZCLO-E7CGnGNdg) 提取码：r6tu
 - 实战Java高并发程序设计  [百度云下载链接](https://pan.baidu.com/s/1nZuirC0iZCLO-E7CGnGNdg) 提取码：r6tu
