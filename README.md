@@ -138,6 +138,7 @@
 - 鸟哥的Linux私房菜 服务器篇      [百度云下载链接](https://pan.baidu.com/s/1JXjZddeE8LKoEZBI_3R2MA)  提取码：63wk
 - Linux Shell脚本攻略       [百度云下载链接](https://pan.baidu.com/s/1pNBF5YjNpqrBfiw-ptn4Fg)  提取码：nrp1
 - Unix 网络编程       [百度云下载链接](https://pan.baidu.com/s/1TY4iX_YD3wvZigfHRpQRgg)  提取码：s7sx
+- linux学习笔记   [百度云下载链接](https://pan.baidu.com/s/13UzEc1wiA_bx813MjJO6iA) 提取码：d5ds 
 
 # 工具
 
