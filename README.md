@@ -84,8 +84,8 @@
 
 ## 消息队列
 
-- RabbitMQ实战指南       [百度云下载链接](https://pan.baidu.com/s/1wbO-XgG40rQumueitiiSqA)  提取码：cdn0
-- Kafka权威指南       [百度云下载链接](https://pan.baidu.com/s/1fGyvU0oJB4XUy7PFzPCgBA)  提取码：5pvi
+- RabbitMQ实战 高效部署分布式消息队列   [百度云下载链接](https://pan.baidu.com/s/15ynlifUlSaaImbfIaGD0aA) 提取码：ydnf
+- Kafka权威指南       [百度云下载链接](https://pan.baidu.com/s/1wz2udPvpWG0O6lu1XvhOug)  提取码：umls
 
 # Web架构
 
