@@ -34,13 +34,13 @@
 - Java核心技术 卷1 基础知识 原书第9版     [百度云下载链接](https://pan.baidu.com/s/1YgIv94CaXkTge1zjbPDdIg)  提取码：4mw2
 - Java核心技术 卷1 基础知识 原书第10版     [百度云下载链接](https://pan.baidu.com/s/1PERkIOBxuc-6BRF7AkRKVw)  提取码：u19h
 - Java核心技术 卷 2 高级特性 原书第10版       [百度云下载链接](https://pan.baidu.com/s/1Cp9TVRvFdt-isIs6bmsbPw)  提取码：d6m0
--  Java编程思想第四版完整中文高清版       [百度云下载链接](https://pan.baidu.com/s/1SzNL73CHIkdqD5i4RdNDUg)  提取码：2jpz
+- Java编程思想第四版完整中文高清版       [百度云下载链接](https://pan.baidu.com/s/1SzNL73CHIkdqD5i4RdNDUg)  提取码：2jpz
 - 写给大忙人看的JavaSE8       [百度云下载链接](https://pan.baidu.com/s/1Di4hX6qxvIKDVgO5byDj8g)  提取码：ecm6
 - 阿里巴巴Java开发手册(终极版)      [百度云下载链接](https://pan.baidu.com/s/1bZ8yhaewtItmw6lY5PvHgA)  提取码：gcyu
 - Java 8实战     [百度云下载链接](https://pan.baidu.com/s/1Kes9LIJmVsoQitsnsVEMkw)  提取码：5rjy
 - 深入理解Java虚拟机JVM高级特性与最佳实践    [百度云下载链接](https://pan.baidu.com/s/1gJoUerapqRf9wroxlxwXGA)  提取码：xr36
 - Head First Java 中文高清版    [百度云下载链接](https://pan.baidu.com/s/1k8wUlfT_QqXcFRGRr7EXQQ )  提取码：1xfr
-- Effective Java（中文版第3版）    [百度云下载链接](https://pan.baidu.com/s/1fqVOunWo2xTyk__yatmdDA )    提取码：n14t
+- Effective Java（中文版第3版）    [百度云下载链接](https://pan.baidu.com/s/1HdE36J7PjuHPzl5XzeZAeg )    提取码：shep
 
 # 框架
 
@@ -84,8 +84,8 @@
 
 ## 消息队列
 
-- RabbitMQ实战 高效部署分布式消息队列   [百度云下载链接](https://pan.baidu.com/s/15ynlifUlSaaImbfIaGD0aA) 提取码：ydnf
-- Kafka权威指南       [百度云下载链接](https://pan.baidu.com/s/1wz2udPvpWG0O6lu1XvhOug)  提取码：umls
+- RabbitMQ实战 高效部署分布式消息队列   [百度云下载链接](https://pan.baidu.com/s/12unp-ip1oYbjR34HMhRpzQ) 提取码：qe0x
+- Kafka权威指南       [百度云下载链接](https://pan.baidu.com/s/1ZVJmtMRz7WJVVWPPAAfpoQ)  提取码：1kf9
 
 # Web架构
 
