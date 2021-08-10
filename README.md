@@ -32,14 +32,14 @@
 # Java
 
 - Java核心技术 卷1 基础知识 原书第9版     [百度云下载链接](https://pan.baidu.com/s/1YgIv94CaXkTge1zjbPDdIg)  提取码：4mw2
-- Java核心技术 卷1 基础知识 原书第10版     [百度云下载链接](https://pan.baidu.com/s/1PERkIOBxuc-6BRF7AkRKVw)  提取码：u19h
+- Java核心技术 卷1 基础知识 原书第10版     [百度云下载链接](https://pan.baidu.com/s/1dOjFeckk9SCrd6ELzh52Vg)  提取码：0q88
 - Java核心技术 卷 2 高级特性 原书第10版       [百度云下载链接](https://pan.baidu.com/s/1Cp9TVRvFdt-isIs6bmsbPw)  提取码：d6m0
-- Java编程思想第四版完整中文高清版       [百度云下载链接](https://pan.baidu.com/s/1SzNL73CHIkdqD5i4RdNDUg)  提取码：2jpz
-- 写给大忙人看的JavaSE8       [百度云下载链接](https://pan.baidu.com/s/1Di4hX6qxvIKDVgO5byDj8g)  提取码：ecm6
+- Java编程思想第四版完整中文高清版       [百度云下载链接](https://pan.baidu.com/s/1FwFjxRLhaUbi_gH9SXys8A)  提取码：o96w
+- 写给大忙人看的JavaSE8       [百度云下载链接](https://pan.baidu.com/s/1KLqyv9TggfWwP3OIZUbHfA)  提取码：chay
 - 阿里巴巴Java开发手册(终极版)      [百度云下载链接](https://pan.baidu.com/s/1bZ8yhaewtItmw6lY5PvHgA)  提取码：gcyu
 - Java 8实战     [百度云下载链接](https://pan.baidu.com/s/1Kes9LIJmVsoQitsnsVEMkw)  提取码：5rjy
-- 深入理解Java虚拟机JVM高级特性与最佳实践    [百度云下载链接](https://pan.baidu.com/s/1gJoUerapqRf9wroxlxwXGA)  提取码：xr36
-- Head First Java 中文高清版    [百度云下载链接](https://pan.baidu.com/s/1k8wUlfT_QqXcFRGRr7EXQQ )  提取码：1xfr
+- 深入理解Java虚拟机JVM高级特性与最佳实践    [百度云下载链接](https://pan.baidu.com/s/16l0Ox6my_SFXfAszbKnWgw)  提取码：nlev 
+- Head First Java 中文高清版    [百度云下载链接](https://pan.baidu.com/s/1Yr1yckI63uKlWvZPmVthAQ)  提取码：do41
 - Effective Java（中文版第3版）    [百度云下载链接](https://pan.baidu.com/s/1HdE36J7PjuHPzl5XzeZAeg )    提取码：shep
 
 # 框架
@@ -59,7 +59,7 @@
 # 并发
 
 - 深入浅出Java多线程--RedSpider社区几位大佬编写的，强推！ [百度云下载链接](https://pan.baidu.com/s/1v5NOm04u8MFocWxBevdQ_Q)  提取码：q1l5 
-- Java并发编程实战（中文版） [百度云下载链接](https://pan.baidu.com/s/1nZuirC0iZCLO-E7CGnGNdg) 提取码：r6tu
+- Java并发编程实战（中文版） [百度云下载链接](https://pan.baidu.com/s/1deOgFFa6daZW9Hn9w4QWIg) 提取码：6cs4
 - Java多线程编程核心技术  [百度云下载链接](https://pan.baidu.com/s/1nZuirC0iZCLO-E7CGnGNdg) 提取码：r6tu
 - 实战Java高并发程序设计  [百度云下载链接](https://pan.baidu.com/s/1nZuirC0iZCLO-E7CGnGNdg) 提取码：r6tu
 - JAVA多线程设计模式（带完整书签清晰扫描版）  [百度云下载链接](https://pan.baidu.com/s/1D6HKzvjrnMQvFA2IubdPHA) 提取码：3n08
@@ -150,8 +150,8 @@
 
 - 编程之美     [百度云下载链接](https://pan.baidu.com/s/1R9H2sqUVDuklNBsgni1rtw)  提取码：5asp
 - 敏捷软件开发：原则、模式与实践    [百度云下载链接](https://pan.baidu.com/s/1MTlJ2dzYo9lJpFHNHeYUpA)  提取码：dmum
-- 代码之美精选版    [百度云下载链接](https://pan.baidu.com/s/17c71ml4OjPyamXGTElR9LQ)  提取码：rtoz
-- 程序员内功修炼-V2.0   [百度云下载链接](https://pan.baidu.com/s/1r6jA5Pp1gQ65oExFo0DA9w)  提取码：t1bv
+- 代码之美精选版    [百度云下载链接](https://pan.baidu.com/s/1S_CqXqTe4jdpi11oNdDEiA)   提取码：lna5
+- 代码大全2中文版  [百度云下载链接](https://pan.baidu.com/s/1U8_Zhhg5NeUWi6MjDRLhrg)  提取码：0kth
 
 # 面试
 
