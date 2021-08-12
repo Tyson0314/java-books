@@ -78,9 +78,9 @@
 
 ## 缓存
 
-- Redis实战       [百度云下载链接](https://pan.baidu.com/s/1VR9S8BrKxqHscxsZVAhGiw)  提取码：8ej7
-- Redis设计与实现       [百度云下载链接](https://pan.baidu.com/s/17gBOJPDLuhcitM9dUgsUWw)  提取码：dhzf 
-- Redis入门指南       [百度云下载链接](https://pan.baidu.com/s/1Xwwvhd5JMd5w2Zt8p06CBg)  提取码：qg46
+- Redis实战  [百度云下载链接](https://pan.baidu.com/s/1je2bNgszBo85UvIyBMZjCw)    提取码：ehxr
+- Redis设计与实现  [百度云下载链接](https://pan.baidu.com/s/1X7KifL7ojEY0YI1JWdVsfA)    提取码：chvs
+- Redis入门指南 第2版  [百度云下载链接](https://pan.baidu.com/s/1U9Xar4S3fjybImCD-ZXp9g)    提取码：rmkp
 
 ## 消息队列
 
