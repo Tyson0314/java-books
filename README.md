@@ -44,17 +44,20 @@
 
 # 框架
 
-- SpringMVC 入门指南松哥版       [百度云下载链接](https://pan.baidu.com/s/1gb9biSZoIXh3Au-kT5pkrw)  提取码：1j0h
-- MyBatis 入门指南松哥版       [百度云下载链接](https://pan.baidu.com/s/1I6wIKTpLJRmZrcAUdw0B-g)  提取码：7zj7
-- Spring in action 中文版（第4版） [百度云下载链接](https://pan.baidu.com/s/1X64CCk-K96Ru8dZFCSkauQ) 提取码：je6d
-- 深入浅出MyBatis技术原理与实战 [百度云下载链接](https://pan.baidu.com/s/17Arw70doeX2U3BWVruG07g) 提取码：uvrn
-- Spring技术内幕 [百度云下载链接](https://pan.baidu.com/s/1VoXFDaDEnUJz4uUBkTQSVA) 提取码：ovpy
-- Spring源码深度解析 [百度云下载链接](https://pan.baidu.com/s/1UTtNA6XVoQOrgwRe22wQCQ) 提取码：lgxs
-- MyBatis技术内幕 [百度云下载链接](https://pan.baidu.com/s/1ipsEBRXP38Bgot8DMTO6-g) 提取码：xbf3
-- Spring Cloud微服务实战.pdf [百度云下载链接](https://pan.baidu.com/s/1K9aroZy4t4xdGTUpUl1c6w) 提取码：jyz5
-- springboot实战 [百度云下载链接](https://pan.baidu.com/s/17EVUG4dsTjy2J1HXuPjMKw) 提取码：ndbl
-- Spring Cloud与Docker微服务架构实战 [百度云下载链接](https://pan.baidu.com/s/1N5FHdO21MYHNvyFite0JGg) 提取码：7oiq
-- Java EE互联网轻量级框架整合开发 SSM框架和Redis实现       [百度云下载链接](https://pan.baidu.com/s/1m5KZ9TcUDf1yw9n2IG5WxA)  提取码：js7m
+- Spring Cloud微服务实战  [百度云下载链接](https://pan.baidu.com/s/1yTxQrjEp84VHMPf47028JQ)    提取码：bwpj
+- spring mvc学习指南  [百度云下载链接](https://pan.baidu.com/s/1k62y1jEVD_2iTHj6MlaxdA)    提取码：nqrc
+- springboot实战 [百度云下载链接](https://pan.baidu.com/s/1E8hDVfs0675WtBdcAPyEdA)    提取码：urpz
+- Spring Cloud与Docker微服务架构实战  [百度云下载链接](https://pan.baidu.com/s/1UXyJHkkHIt1AZACVpgI8Ig)    提取码：nzti
+- SPRING技术内幕：深入解析SPRING架构与设计原理(第2版)  [百度云下载链接](https://pan.baidu.com/s/13rcycAbScjofhvIyshkFFg)    提取码：kuhw
+- Spring in action 中文版（第4版）  [百度云下载链接](https://pan.baidu.com/s/1fs5p5gNopgPJI6_b_NFyTg)    提取码：wxkc
+- Hibernate实战  [百度云下载链接](https://pan.baidu.com/s/1LHmZAhoQ7VUmm_PiuVyUiA)    提取码：kajv
+- 深入浅出MyBatis技术原理与实战  [百度云下载链接](https://pan.baidu.com/s/17E3Q4cNkqrwl8mvV3RYJeg)    提取码：kbgt
+- MyBatis技术内幕  [百度云下载链接](https://pan.baidu.com/s/1NjxgYjKOXTWJ2ZfeE5nHuw)    提取码：oigl
+- Spring Boot实战  [百度云下载链接](https://pan.baidu.com/s/1BIp9mzd84hZQll45DAxaXg)    提取码：priq
+- SPRING技术内幕：深入解析SPRING架构与设计原理  [百度云下载链接](https://pan.baidu.com/s/1NPQxZmUMKqCRIjs_KcYUnA)    提取码：anpr
+- 看透springMvc源代码分析与实践  [百度云下载链接](https://pan.baidu.com/s/10bbqSBf270AnU9YiconzZA)    提取码：cesz
+- spring揭秘  [百度云下载链接](https://pan.baidu.com/s/1YyjIARuPFXdlJ2qJZNOxVQ)    提取码：jtfk
+- Spring源码深度解析  [百度云下载链接](https://pan.baidu.com/s/1HO4sJUwNa8Q_8ctuxF8RQw)    提取码：fkxr
 
 # 并发
 
@@ -80,9 +83,9 @@
 
 ## 缓存
 
-- Redis实战  [百度云下载链接](https://pan.baidu.com/s/1je2bNgszBo85UvIyBMZjCw)    提取码：ehxr
-- Redis设计与实现  [百度云下载链接](https://pan.baidu.com/s/1X7KifL7ojEY0YI1JWdVsfA)    提取码：chvs
-- Redis入门指南 第2版  [百度云下载链接](https://pan.baidu.com/s/1U9Xar4S3fjybImCD-ZXp9g)    提取码：rmkp
+- Redis入门指南 第2版  [百度云下载链接](https://pan.baidu.com/s/1nOerU31bginYb4dVirKgRA)    提取码：jboc
+- Redis实战  [百度云下载链接](https://pan.baidu.com/s/1GN4Z-NJqbLHI8QmuwGGDMQ)    提取码：kyld
+- Redis设计与实现  [百度云下载链接](https://pan.baidu.com/s/1B-UszHD8hm2Qjfq9c-pm_w)    提取码：iwgp
 
 ## 消息队列
 
