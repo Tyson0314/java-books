@@ -29,18 +29,18 @@
 
 本仓库资源持续更新中，小伙伴们也可以帮忙一起完善书单~
 
-# Java
 
-- Java核心技术 卷1 基础知识 原书第9版     [百度云下载链接](https://pan.baidu.com/s/1YgIv94CaXkTge1zjbPDdIg)  提取码：4mw2
-- Java核心技术 卷1 基础知识 原书第10版     [百度云下载链接](https://pan.baidu.com/s/1dOjFeckk9SCrd6ELzh52Vg)  提取码：0q88
-- Java核心技术 卷 2 高级特性 原书第10版       [百度云下载链接](https://pan.baidu.com/s/1Cp9TVRvFdt-isIs6bmsbPw)  提取码：d6m0
-- Java编程思想第四版完整中文高清版       [百度云下载链接](https://pan.baidu.com/s/1FwFjxRLhaUbi_gH9SXys8A)  提取码：o96w
-- 写给大忙人看的JavaSE8       [百度云下载链接](https://pan.baidu.com/s/1KLqyv9TggfWwP3OIZUbHfA)  提取码：chay
-- 阿里巴巴Java开发手册(终极版)      [百度云下载链接](https://pan.baidu.com/s/1bZ8yhaewtItmw6lY5PvHgA)  提取码：gcyu
-- Java 8实战     [百度云下载链接](https://pan.baidu.com/s/1Kes9LIJmVsoQitsnsVEMkw)  提取码：5rjy
-- 深入理解Java虚拟机JVM高级特性与最佳实践    [百度云下载链接](https://pan.baidu.com/s/16l0Ox6my_SFXfAszbKnWgw)  提取码：nlev 
-- Head First Java 中文高清版    [百度云下载链接](https://pan.baidu.com/s/1Yr1yckI63uKlWvZPmVthAQ)  提取码：do41
-- Effective Java（中文版第3版）    [百度云下载链接](https://pan.baidu.com/s/1HdE36J7PjuHPzl5XzeZAeg )    提取码：shep
+
+# Java基础
+- 阿里巴巴Java开发手册(终极版)  [百度云下载链接](https://pan.baidu.com/s/1oU2quyXNSnIMSlf_RsjzVQ)    提取码：zmbd
+- Java编程思想第四版  [百度云下载链接](https://pan.baidu.com/s/1KZckemrmKzi3bg4N0VIb_w)    提取码：fbzn
+- Java 8实战（中文版）  [百度云下载链接](https://pan.baidu.com/s/1FfkCDwFOuYFSA-rOy3ZIqQ)    提取码：haqz
+- 写给大忙人看的JavaSE8  [百度云下载链接](https://pan.baidu.com/s/1EUdh_bybCPe5GKZhRl1x2g)    提取码：jbuw
+- Head First Java  [百度云下载链接](https://pan.baidu.com/s/1oAt8lghZaQEFE7dOQ7kYqg)    提取码：zyfa
+- Java核心技术  卷1  基础知识  原书第10版  [百度云下载链接](https://pan.baidu.com/s/1VafVZRumYOC9OW8zghhiJA)    提取码：napu
+- Effective Java  [百度云下载链接](https://pan.baidu.com/s/1sBe5XcpUGlqT5Uvvc-RnpA)    提取码：bilg
+- 深入理解Java虚拟机_  [百度云下载链接](https://pan.baidu.com/s/1CS8YF_RNM5b_xiMJp1uRiw)    提取码：pthc
+- Java核心技术 卷 2 高级特性 原书第10版  [百度云下载链接](https://pan.baidu.com/s/1ZVXcZpZehQU-hlpSpQrN2A)    提取码：pbaf
 
 # 框架
 
@@ -70,7 +70,7 @@
 # 数据库
 
 - MySQL 必知必会       [百度云下载链接](https://pan.baidu.com/s/12qqwABFZDT7y2OCrUJ_6AQ)  提取码：0rrr
-  - 高性能mysql第三版  [百度云下载链接](https://pan.baidu.com/s/1J3G6LVTBDRhZofmVnW4LXw)    提取码：hiyt
+- 高性能mysql第三版  [百度云下载链接](https://pan.baidu.com/s/1J3G6LVTBDRhZofmVnW4LXw)    提取码：hiyt
 - MySQL技术内幕  InnoDB存储引擎  第2版  [百度云下载链接](https://pan.baidu.com/s/12EwKDJgPYETkl6gYyOFGpg)    提取码：drqa
 - 《深入浅出MySQL：数据库开发、优化与管理维护》第2版  [百度云下载链接](https://pan.baidu.com/s/1GI62fBDrrOxv0GQ085dlVw)    提取码：ztwh
 - SQLite 权威指南  [百度云下载链接](https://pan.baidu.com/s/1YxL_B6dzqJCcByi3x9Rkew)    提取码：ijdo
@@ -79,18 +79,16 @@
 - SQL必知必会 第4版  [百度云下载链接](https://pan.baidu.com/s/1kLLyQpAQ1G-XldLsRJPzwA)    提取码：rvsp
 - MongoDB权威指南  [百度云下载链接](https://pan.baidu.com/s/17PeqosynzjXMv58mr9FFnA)    提取码：ipwq
 
-# 中间件
+# 缓存
 
-## 缓存
+- Redis入门指南 第2版  [百度云下载链接](https://pan.baidu.com/s/1kWDGl3NWOxV0JvXKpFbjKw)    提取码：obeh
+- Redis设计与实现  [百度云下载链接](https://pan.baidu.com/s/1I_6Xlx2zR1nii0v_wR4_QQ)    提取码：yvag
+- Redis实战  [百度云下载链接](https://pan.baidu.com/s/1DdRf1cmF8K-K-o16uWK0UQ)    提取码：pzow
 
-- Redis入门指南 第2版  [百度云下载链接](https://pan.baidu.com/s/1nOerU31bginYb4dVirKgRA)    提取码：jboc
-- Redis实战  [百度云下载链接](https://pan.baidu.com/s/1GN4Z-NJqbLHI8QmuwGGDMQ)    提取码：kyld
-- Redis设计与实现  [百度云下载链接](https://pan.baidu.com/s/1B-UszHD8hm2Qjfq9c-pm_w)    提取码：iwgp
+# 消息队列
 
-## 消息队列
-
-- RabbitMQ实战 高效部署分布式消息队列   [百度云下载链接](https://pan.baidu.com/s/12unp-ip1oYbjR34HMhRpzQ) 提取码：qe0x
-- Kafka权威指南       [百度云下载链接](https://pan.baidu.com/s/1ZVJmtMRz7WJVVWPPAAfpoQ)  提取码：1kf9
+- Kafka权威指南  [百度云下载链接](https://pan.baidu.com/s/138vsRq9NsPAr9jrZrsUatg)    提取码：aobq
+- RabbitMQ实战 高效部署分布式消息队列  [百度云下载链接](https://pan.baidu.com/s/1XwtnK0zTNhvWngI8a6C0dA)    提取码：dwma
 
 # Web架构
 
@@ -110,23 +108,23 @@
 
 # 计算机网络
 
-- 计算机网络-自顶向下方法（第六版）  [百度云下载链接](https://pan.baidu.com/s/1VxwLOnNNBiFZJSkm0VlClg)    提取码：qoef
-- 图解HTTP  [百度云下载链接](https://pan.baidu.com/s/1fZtwKmkUpUq1kIcxkt5Lhg)    提取码：dpie
-- 图解TCP IP  [百度云下载链接](https://pan.baidu.com/s/1HY802CRtJJHkXP8oJLL4rA)    提取码：nzld
-- TCP IP详解卷1 原书第2版  [百度云下载链接](https://pan.baidu.com/s/17enE__3l_5g0OVjJtIn6tQ)    提取码：ewxa
-- Wireshark网络分析就这么简单  [百度云下载链接](https://pan.baidu.com/s/1FAcnwtY2hun19fkrQvmkOA)    提取码：qsbo
-- 计算机网络（第7版）-谢希仁  [百度云下载链接](https://pan.baidu.com/s/1kO-Z685VFAxS23JQcrVOzQ)    提取码：emrs
+- 图解HTTP  [百度云下载链接](https://pan.baidu.com/s/1zsQ62X8IDdwxBuz2fYnSew)    提取码：lizp
+- Wireshark网络分析就这么简单  [百度云下载链接](https://pan.baidu.com/s/1cEjw7MLPL0BfJIMrIjue8A)    提取码：rwfi
+- 图解TCP IP  [百度云下载链接](https://pan.baidu.com/s/1Z6hNaGFibWx_k-aTo8rQrg)    提取码：hser
+- 计算机网络（第7版）-谢希仁  [百度云下载链接](https://pan.baidu.com/s/1DqTv7qSFWcmY_3jFRcbLXg)    提取码：wzdy
+- 计算机网络-自顶向下方法（第六版）  [百度云下载链接](https://pan.baidu.com/s/1R1f6CWLe8iYi3woivLvjCg)    提取码：eiqn
+- TCP IP详解卷1  [百度云下载链接](https://pan.baidu.com/s/1U7pPw9LR4M52m8PNUfqfqQ)    提取码：volm
 
 # 数据结构与算法
 
-- 数据结构与算法分析 java语言描述（原书第3版）  [百度云下载链接](https://pan.baidu.com/s/1AtuLj56AdK7T3syZhR5cSQ)    提取码：gkot
-- 算法图解  [百度云下载链接](https://pan.baidu.com/s/1CdDMlJUp9MbRuM4DZCzf7g)    提取码：tbie
-- 算法导论 第三版 中文  [百度云下载链接](https://pan.baidu.com/s/1dN1N2oKboASwD6dXyT-ylA)    提取码：sxzr
-- 剑指Offer  [百度云下载链接](https://pan.baidu.com/s/1Ty4W71DsPE5U0YJAhnd1Vg)    提取码：vndk
+- 数据结构与算法分析 java语言描述（原书第3版）  [百度云下载链接](https://pan.baidu.com/s/1HRASSOsSQ2PVXjbPAmwuxg)    提取码：pueo
 - BAT LeetCode 刷题手册       [百度云下载链接](https://pan.baidu.com/s/1YSzFuLqXxswIeadRwQ8RUA)  提取码：yy9t
 - Java 版的 LeetCode 刷题笔记       [百度云下载链接](https://pan.baidu.com/s/1xenPiPD_0A8j3KD6v-49ag)  提取码：jr1m
-- labuladong 的算法小抄       [百度云下载链接](https://pan.baidu.com/s/1xbc2Zvg1dMB4kPMB-_kFCg)  提取码：8s71
-- A LeetCode Grinding Guide (C++ Version)  [百度云下载链接](https://pan.baidu.com/s/10r4JGSxpC5qRpcvdGC_nCg)    提取码：mary
+- LeetCode 101 - A LeetCode Grinding Guide (C++ Version)  [百度云下载链接](https://pan.baidu.com/s/1jLn8ztO-7K-qEhb6RN2ORQ)    提取码：qtyd
+- 算法图解  [百度云下载链接](https://pan.baidu.com/s/1NwO4QDvEQU86fRTbjZEpag)    提取码：zsrl
+- 剑指Offer  [百度云下载链接](https://pan.baidu.com/s/1R3TRIbXMNJHEEt_x0Isu1g)    提取码：fabd
+- labuladong的算法小抄  [百度云下载链接](https://pan.baidu.com/s/1_uZ0Rve--QyFGdfCwYRocw)    提取码：lavd
+- 算法导论 第三版 中文-1  [百度云下载链接](https://pan.baidu.com/s/1Wkbq8lJpLr3o8-C9OdkomQ)    提取码：osaq
 
 # 分布式
 
@@ -141,11 +139,12 @@
 
 # Linux
 
-- 鸟哥的 Linux 私房菜基础学习篇       [百度云下载链接](https://pan.baidu.com/s/1VFmH7OYOozcpyip69EZOfQ)  提取码：am1w
-- 鸟哥的Linux私房菜 服务器篇      [百度云下载链接](https://pan.baidu.com/s/1JXjZddeE8LKoEZBI_3R2MA)  提取码：63wk
-- Linux Shell脚本攻略       [百度云下载链接](https://pan.baidu.com/s/1pNBF5YjNpqrBfiw-ptn4Fg)  提取码：nrp1
-- Unix 网络编程       [百度云下载链接](https://pan.baidu.com/s/1TY4iX_YD3wvZigfHRpQRgg)  提取码：s7sx
-- linux学习笔记   [百度云下载链接](https://pan.baidu.com/s/13UzEc1wiA_bx813MjJO6iA) 提取码：d5ds 
+- Linux学习笔记  [百度云下载链接](https://pan.baidu.com/s/1IESM91362lOBe-83q2SIIg)    提取码：mcyd
+- 鸟哥的Linux私房菜 基础学习篇(第三版)-清晰版  [百度云下载链接](https://pan.baidu.com/s/1sx7TqRAJi7A-9bo-Byz0cA)    提取码：dxkv
+- Linux Shell脚本攻略（第2版）  [百度云下载链接](https://pan.baidu.com/s/1HTwE5Qsyq75sX9cRXt-iJA)    提取码：lewm
+- UNIX网络编程_卷2_进程间通信  [百度云下载链接](https://pan.baidu.com/s/1dF_yfADJ1_H2A4l5uG23Hg)    提取码：dapt
+- UNIX网络编程_卷1_套接字联网API  [百度云下载链接](https://pan.baidu.com/s/1b7qIM5hPPHIpTGGDtjvdGQ)    提取码：mkah
+- 鸟哥的Linux私房菜 服务器篇(第三版)  [百度云下载链接](https://pan.baidu.com/s/1y1i1W-pAEz5q345oghpxWQ)    提取码：zcak
 
 # 工具
 
