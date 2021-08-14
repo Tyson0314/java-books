@@ -2,13 +2,12 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Java](#java)
+- [Java基础](#java%E5%9F%BA%E7%A1%80)
 - [框架](#%E6%A1%86%E6%9E%B6)
 - [并发](#%E5%B9%B6%E5%8F%91)
 - [数据库](#%E6%95%B0%E6%8D%AE%E5%BA%93)
-- [中间件](#%E4%B8%AD%E9%97%B4%E4%BB%B6)
-  - [缓存](#%E7%BC%93%E5%AD%98)
-  - [消息队列](#%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97)
+- [缓存](#%E7%BC%93%E5%AD%98)
+- [消息队列](#%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97)
 - [Web架构](#web%E6%9E%B6%E6%9E%84)
 - [设计模式](#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 - [计算机网络](#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
