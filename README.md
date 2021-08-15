@@ -1,6 +1,5 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Java基础](#java%E5%9F%BA%E7%A1%80)
 - [框架](#%E6%A1%86%E6%9E%B6)
@@ -117,7 +116,8 @@
 # 数据结构与算法
 
 - 数据结构与算法分析 java语言描述（原书第3版）  [百度云下载链接](https://pan.baidu.com/s/1HRASSOsSQ2PVXjbPAmwuxg)    提取码：pueo
-- BAT LeetCode 刷题手册       [百度云下载链接](https://pan.baidu.com/s/1YSzFuLqXxswIeadRwQ8RUA)  提取码：yy9t
+- BAT LeetCode 刷题手册       [百度云下载链接](https://pan.baidu.com/s/1n-akfcoP6mRey0-PyJMY1g)  提取码：p9k6
+- 谷歌大佬LeetCode刷题笔记   [百度云下载链接](https://pan.baidu.com/s/1jNss6blch_zzDeAdgdY9jQ)  提取码: 8apq
 - Java 版的 LeetCode 刷题笔记       [百度云下载链接](https://pan.baidu.com/s/1xenPiPD_0A8j3KD6v-49ag)  提取码：jr1m
 - LeetCode 101 - A LeetCode Grinding Guide (C++ Version)  [百度云下载链接](https://pan.baidu.com/s/1jLn8ztO-7K-qEhb6RN2ORQ)    提取码：qtyd
 - 算法图解  [百度云下载链接](https://pan.baidu.com/s/1NwO4QDvEQU86fRTbjZEpag)    提取码：zsrl
