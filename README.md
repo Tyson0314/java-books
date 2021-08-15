@@ -1,6 +1,7 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+
 - [Java基础](#java%E5%9F%BA%E7%A1%80)
 - [框架](#%E6%A1%86%E6%9E%B6)
 - [并发](#%E5%B9%B6%E5%8F%91)
@@ -14,20 +15,27 @@
 - [分布式](#%E5%88%86%E5%B8%83%E5%BC%8F)
 - [操作系统](#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 - [Linux](#linux)
+- [大数据](#%E5%A4%A7%E6%95%B0%E6%8D%AE)
 - [工具](#%E5%B7%A5%E5%85%B7)
 - [编程之术](#%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%9C%AF)
 - [面试](#%E9%9D%A2%E8%AF%95)
-- [其他](#%E5%85%B6%E4%BB%96)
-  - [Docker](#docker)
 - [免责声明](#%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 本人断断续续花了一个多月的时间，从各个学习网站上收集了常用的 Java 电子书、个人笔记和面试资料，在这里分享有需要的人，希望可以帮助到曾经像我一样的新手，节省下找资料的时间。
 
-本仓库资源持续更新中，小伙伴们也可以帮忙一起完善书单~
+本仓库书单持续更新中，小伙伴们也可以帮忙一起完善书单，找不到想要的书籍可以提issue~
 
 
+
+> 另外给大家推荐一个github仓库，用于分享**Java核心知识**，包括Java基础、MySQL、SpringBoot、Mybatis、Redis、RabbitMQ等等，**面试必备**。
+>
+> github仓库地址：https://github.com/Tyson0314/Java-learning
+>
+> 如果github访问不了，可以访问gitee仓库。
+>
+> gitee仓库地址：https://gitee.com/tysondai/Java-learning
 
 # Java基础
 - 阿里巴巴Java开发手册(终极版)  [百度云下载链接](https://pan.baidu.com/s/1oU2quyXNSnIMSlf_RsjzVQ)    提取码：zmbd
