@@ -188,7 +188,14 @@
 - Dubbo面试      [百度云下载链接](https://pan.baidu.com/s/1p7C2A_CJZT5R_CzxkOfbzQ)  提取码：grfl
 - Tomcat优化相关问题       [百度云下载链接](https://pan.baidu.com/s/1zURt7nIicYLIJyUoZ32gQA)  提取码：vaob
 
+# Python
 
+- Python编程入门经典  [百度云下载链接](https://pan.baidu.com/s/1fbmrHg7Ld3Cb48bwLwbXCA)    提取码：xkgq
+- Python高级编程第2版_张亮 阿信（译）_人民邮电出版社_2017-10_v2_完整版  [百度云下载链接](https://pan.baidu.com/s/1xtgKEpr5_Bbaa-q-s3-ciQ)    提取码：bcdk
+- Python学习手册(第4版)  [百度云下载链接](https://pan.baidu.com/s/1yH8WbsQK9TuGyB8IxAb8KA)    提取码：celj
+- Python开发实战  [百度云下载链接](https://pan.baidu.com/s/1RDhbbX6abeu6nGpJFFV4CQ)    提取码：drhy
+- Python开发技术详解  [百度云下载链接](https://pan.baidu.com/s/1fGOU3YEWDOIV6ahAJR9qug)    提取码：eiom
+- 编程小白的第一本python入门书  [百度云下载链接](https://pan.baidu.com/s/1npGeipCsQTh-ggJhx1JZ0A)    提取码：peqo
 
 # 免责声明
 
