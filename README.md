@@ -19,6 +19,9 @@
 - [工具](#%E5%B7%A5%E5%85%B7)
 - [编程之术](#%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%9C%AF)
 - [面试](#%E9%9D%A2%E8%AF%95)
+- [Python](#python)
+- [C](#c)
+- [C++](#c)
 - [免责声明](#%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -196,6 +199,27 @@
 - Python开发实战  [百度云下载链接](https://pan.baidu.com/s/1RDhbbX6abeu6nGpJFFV4CQ)    提取码：drhy
 - Python开发技术详解  [百度云下载链接](https://pan.baidu.com/s/1fGOU3YEWDOIV6ahAJR9qug)    提取码：eiom
 - 编程小白的第一本python入门书  [百度云下载链接](https://pan.baidu.com/s/1npGeipCsQTh-ggJhx1JZ0A)    提取码：peqo
+
+# C
+
+- C程序设计语言     [百度云下载链接](https://pan.baidu.com/s/1OfySnM0_XgOBENAOvllu-A)    提取码：sirn
+- C语言深度解剖  [百度云下载链接](https://pan.baidu.com/s/1YdzreC10TFxNGw0VAPnJiA)    提取码：oqtw
+- C语言函数大全  [百度云下载链接](https://pan.baidu.com/s/1589FRtxXvF8kbv-0wyCSNw)    提取码：qsmf
+- C程序设计语言（第2版）中文译版  [百度云下载链接](https://pan.baidu.com/s/17vZKrtaUuaEkKgA_DqeC6g)    提取码：pcmj
+- C和指针  [百度云下载链接](https://pan.baidu.com/s/17zsELqH0RAg3YcWem-0BEQ)    提取码：vahz
+- C_Primer_Plus（第五版）  [百度云下载链接](https://pan.baidu.com/s/1cZzuzlahnQvMNbmrkEbh_A)    提取码：fwjv
+
+# C++
+
+- 深入探索C++对象模型  [百度云下载链接](https://pan.baidu.com/s/1i26nEJJw4GqCU3HBKWITOA)    提取码：zrej
+- STL源码剖析  [百度云下载链接](https://pan.baidu.com/s/1P66tqn70sjbxXJTVjtDkKQ)    提取码：puav
+- C++__Primer中文版__第5版_[（美）李普曼，（美）拉乔伊，（美）默著][电子工业出版社][2013.08][838页]  [百度云下载链接](https://pan.baidu.com/s/1YEAv1ZwUEHNRGYFkbypMBw)    提取码：iokm
+- Effective_STL_中文版  [百度云下载链接](https://pan.baidu.com/s/1Z8OoALQ0p68hJ-Q_qY-JhQ)    提取码：osua
+- C++编程规范-101条规则准则与最佳实践  [百度云下载链接](https://pan.baidu.com/s/1SjSh6PNbXF5GWvngDz9FMA)    提取码：cghr
+- More_Effective_C++中文版  [百度云下载链接](https://pan.baidu.com/s/1R5c5CBYhCzHbxoTWuLu6Vw)    提取码：hkrp
+- C++primer_5th  [百度云下载链接](https://pan.baidu.com/s/1TTac31dIqqr0K_KHio1uvw)    提取码：odsn
+
+
 
 # 免责声明
 
