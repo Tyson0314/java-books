@@ -22,6 +22,9 @@
 - [Python](#python)
 - [C](#c)
 - [C++](#c)
+- [前端](#%E5%89%8D%E7%AB%AF)
+- [Go](#go)
+- [机器学习](#%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 - [免责声明](#%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -219,7 +222,35 @@
 - More_Effective_C++中文版  [百度云下载链接](https://pan.baidu.com/s/1R5c5CBYhCzHbxoTWuLu6Vw)    提取码：hkrp
 - C++primer_5th  [百度云下载链接](https://pan.baidu.com/s/1TTac31dIqqr0K_KHio1uvw)    提取码：odsn
 
+# 前端
 
+- HTML5揭秘  [百度云下载链接](https://pan.baidu.com/s/1RmLgvy0w6LnLk8_UoVcLog)    提取码：gzlv
+- jQuery权威指南  [百度云下载链接](https://pan.baidu.com/s/1_O15BWTPHrHcVTDN7AbquQ)    提取码：zdef
+- HTML5与CSS3基础教程（第8版）  [百度云下载链接](https://pan.baidu.com/s/1wApGq5lwmWG4ohdunSo9ig)    提取码：kazv
+- jQuery高级编程，中文完整扫描版(jb51.net) 2  [百度云下载链接](https://pan.baidu.com/s/1sjQub_gdIeh0P86zsGjQ4A)    提取码：keoq
+- JavaScript高级程序设计（第3版）  [百度云下载链接](https://pan.baidu.com/s/1n4jsHkd_QsAHfATAmP03hw)    提取码：lftv
+- HTML与CSS入门经典(第7版).（美）奥利弗，（美）莫里森.扫描版  [百度云下载链接](https://pan.baidu.com/s/14lV6xWpF3TBzX_sBHRWKUQ)    提取码：pfsk
+- 疯狂ajax讲义  [百度云下载链接](https://pan.baidu.com/s/1_JzBkV-wnTU60Us874Yr7g)    提取码：pkqg
+- Bootstrap实战  [百度云下载链接](https://pan.baidu.com/s/12sXFHQ2reFGElDdA2W1GGQ)    提取码：nkzh
+- jQuery技术内幕 深入解析jQuery架构设计与实现原理  [百度云下载链接](https://pan.baidu.com/s/1b25HDq-Vpu3qZh31OPouXg)    提取码：akoq
+- Node.js开发指南  [百度云下载链接](https://pan.baidu.com/s/166jh1m3v28l7J6O3UJX8_A)    提取码：smrx
+
+# Go
+
+- 学习 Go 语言(Golang)  [百度云下载链接](https://pan.baidu.com/s/1yspmpadpYtLgENvPNx2BSQ)    提取码：znwa
+- Go语言实战  [百度云下载链接](https://pan.baidu.com/s/1SR5lNa8E2TzlJROeAlL36w)    提取码：shat
+- Go web 编程  [百度云下载链接](https://pan.baidu.com/s/12CN3h-dM4mR4Rwcj99A71g)    提取码：cltb
+- Go并发编程实战  [百度云下载链接](https://pan.baidu.com/s/1MaxOGcUn4ifMc2SmjVJ3og)    提取码：mu9f 
+
+# 机器学习
+
+- 机器学习实战  [百度云下载链接](https://pan.baidu.com/s/1E-zSm8-R5dp3SFuYi1LugA)    提取码：hcmt
+- 贝叶斯思维统计建模的PYTHON学习法  [百度云下载链接](https://pan.baidu.com/s/1MHVSbGapnJGxBXWihxYrUg)    提取码：chgp
+- TensorFlow实践与智能系统  [百度云下载链接](https://pan.baidu.com/s/1WCdGJgW6PYETAROjwCEszg)    提取码：ftys
+- 图解机器学习  [百度云下载链接](https://pan.baidu.com/s/1-m047fspQzxIlZ5JV_npXw)    提取码：rcgs
+- PYTHON机器学习及实践－从零开始通往KAGGLE竞赛之路  [百度云下载链接](https://pan.baidu.com/s/1IkUkcW1rQJvGf_owwmLGsw)    提取码：btaz
+- Tensorflow 实战Google深度学习框架  [百度云下载链接](https://pan.baidu.com/s/1iQ_zCXr3j6YMsTCfgfcZug)    提取码：dntv
+- 深度学习 中文版  [百度云下载链接](https://pan.baidu.com/s/16jyCbauGGQnxfMcag_u6rA)    提取码：ozqu
 
 # 免责声明
 
