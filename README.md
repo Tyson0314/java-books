@@ -78,7 +78,7 @@
 
 # 数据库
 
-- MySQL 必知必会    [百度云下载链接](https://pan.baidu.com/s/14CJT3LYDDZictg839E2igg)  提取码：ykv6
+- MySQL 必知必会    [百度云下载链接](https://pan.baidu.com/s/1nYBDQ6q3oBAAZcAXG4F-aw)  njia
 - 高性能mysql第三版  [百度云下载链接](https://pan.baidu.com/s/1zsuAqxo2ghLmoGEPo7lK4A)    提取码：vtt8
 - MySQL技术内幕  InnoDB存储引擎  [百度云下载链接](https://pan.baidu.com/s/1DVcjLVd07QdVmdxg-8WN7w)    提取码：mgc1
 - 深入浅出MySQL  [百度云下载链接](https://pan.baidu.com/s/1m_ufXSQmRBZ7lX8Sb2HDyw)    提取码：8ea6
