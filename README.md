@@ -1,3 +1,19 @@
+> 首先给大家分享一个Github仓库，用于分享**Java核心知识**，包括Java基础、MySQL、SpringBoot、Mybatis、Redis、RabbitMQ等等，**面试必备**。
+>
+> github仓库地址：https://github.com/Tyson0314/Java-learning
+>
+> 如果github访问不了，可以访问gitee仓库。
+>
+> gitee仓库地址：https://gitee.com/tysondai/Java-learning
+
+
+
+本人断断续续花了一个多月的时间，从各个学习网站上收集了**200多本经典的计算机电子书、个人笔记和面试资料**，在这里分享有需要的人，希望可以帮助到曾经像我一样的新手，节省下找资料的时间。
+
+![](https://gitee.com/tysondai/img/raw/master/image-20210902223746952.png)
+
+本仓库书单持续更新中，小伙伴们也可以帮忙一起完善书单，找不到想要的书籍可以提issue~
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
@@ -28,20 +44,6 @@
 - [免责声明](#%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-> 首先给大家分享一个Github仓库，用于分享**Java核心知识**，包括Java基础、MySQL、SpringBoot、Mybatis、Redis、RabbitMQ等等，**面试必备**。
->
-> github仓库地址：https://github.com/Tyson0314/Java-learning
->
-> 如果github访问不了，可以访问gitee仓库。
->
-> gitee仓库地址：https://gitee.com/tysondai/Java-learning
-
-
-
-本人断断续续花了一个多月的时间，从各个学习网站上收集了**200多本经典的计算机电子书、个人笔记和面试资料**，在这里分享有需要的人，希望可以帮助到曾经像我一样的新手，节省下找资料的时间。
-
-本仓库书单持续更新中，小伙伴们也可以帮忙一起完善书单，找不到想要的书籍可以提issue~
 
 # Java基础
 - 阿里巴巴Java开发手册(终极版)  [百度云下载链接](https://pan.baidu.com/s/1oU2quyXNSnIMSlf_RsjzVQ)    提取码：zmbd
