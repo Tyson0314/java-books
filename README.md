@@ -43,6 +43,8 @@
 - [前端](#%E5%89%8D%E7%AB%AF)
 - [Go](#go)
 - [机器学习](#%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
+- [有趣](#%E6%9C%89%E8%B6%A3)
+- [养生](#%E5%85%BB%E7%94%9F)
 - [免责声明](#%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -175,6 +177,7 @@
 - Vim 中文手册       [百度云下载链接](https://pan.baidu.com/s/1314B6MFAqZI32VEtipyHAQ) 提取码：5cap
 - Pro Git 中文版       [百度云下载链接](https://pan.baidu.com/s/1nfyE065TdsY2tk0-yofJ4g) 提取码： yv2x
 - IntelliJ IDEA 简体中文专题教程      [百度云下载链接](https://pan.baidu.com/s/1mLthVM2evXIUUohmbTALrA)   提取码：ey6c
+- 正则表达式必知必会  [百度云下载链接](https://pan.baidu.com/s/1J6m7v-d2qLEqYd9EBF7biw)    提取码：kvox
 
 # 编程之术
 
@@ -261,6 +264,20 @@
 - PYTHON机器学习及实践－从零开始通往KAGGLE竞赛之路  [百度云下载链接](https://pan.baidu.com/s/1IkUkcW1rQJvGf_owwmLGsw)    提取码：btaz
 - Tensorflow 实战Google深度学习框架  [百度云下载链接](https://pan.baidu.com/s/1iQ_zCXr3j6YMsTCfgfcZug)    提取码：dntv
 - 深度学习 中文版  [百度云下载链接](https://pan.baidu.com/s/16jyCbauGGQnxfMcag_u6rA)    提取码：ozqu
+
+# 有趣
+- 人月神话  [百度云下载链接](https://pan.baidu.com/s/15QZSQk_deTmzPm8yZXRg-Q)    提取码：qiap
+- 编程人生  [百度云下载链接](https://pan.baidu.com/s/1YCxpSMlmj28PjaMMn7b50w)    提取码：nigz
+- 奔跑吧，程序员：从零开始打造产品、技术和团队  [百度云下载链接](https://pan.baidu.com/s/18Fr2FVPLuk_E5uxhn_a20w)    提取码：pjdu
+- 黑客与画家  [百度云下载链接](https://pan.baidu.com/s/1eQTpmEEUEsB7DFmjiqX-SA)    提取码：ngqa
+- 数学之美  [百度云下载链接](https://pan.baidu.com/s/1wVV_cPeOu2lBRlam4FGVyQ)    提取码：squt
+- 浪潮之巅（完整版）  [百度云下载链接](https://pan.baidu.com/s/1vro8VzJOy_fpdEi0hoqbZg)    提取码：penh
+- 图灵的秘密  [百度云下载链接](https://pan.baidu.com/s/1O4iRkrwcXIDEZM68pRX6aA)    提取码：ymvj
+- 自己动手写网络爬虫  [百度云下载链接](https://pan.baidu.com/s/18zfpgyPUd6Vh-0X8MkCjsw)    提取码：jova
+
+# 养生
+
+- 程序员健康指南  [百度云下载链接](https://pan.baidu.com/s/18whkX3AyERT1D10TbxSW1w)    提取码：osnq
 
 # 免责声明
 
