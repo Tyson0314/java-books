@@ -8,11 +8,13 @@
 
 
 
+**本仓库的书籍来源于网络，版权归原作者所有，不以盈利为目的，仅限学习使用，如有侵权请联系 1713476357@qq.com 删除。**
+
 本人断断续续花了一个多月的时间，从各个学习网站上收集了**200多本经典的计算机电子书、个人笔记和面试资料**，在这里分享有需要的人，希望可以帮助到曾经像我一样的新手，节省下找资料的时间。
 
 ![](https://gitee.com/tysondai/img/raw/master/image-20210902223746952.png)
 
-本仓库书单持续更新中，小伙伴们也可以帮忙一起完善书单，找不到想要的书籍可以提issue~
+书单持续更新中，小伙伴们也可以帮忙一起完善书单，找不到想要的书籍可以提issue~
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -179,6 +181,9 @@
 - 代码大全2中文版  [百度云下载链接](https://pan.baidu.com/s/1MFsXth3eZzrbUmSPaAeNpg)  提取码：2ppw
 - 重构：改善既有代码的设计   [百度云下载链接](https://pan.baidu.com/s/1cJRXDo1yN4NcRRvTN1N0Gw) 提取码: 8w3n
 - 代码整洁之道   [百度云下载链接](https://pan.baidu.com/s/1lCWlszgISOkCO8mY8ScU0g) 提取码: uktt
+- 编程的奥秘  [百度云下载链接](https://pan.baidu.com/s/15AriAJbhN4knspnzArDRuQ)    提取码：pwqk
+- 编码：隐匿在计算机软硬件背后的语言  [百度云下载链接](https://pan.baidu.com/s/1CxTa_Qh-S1WoIWM1JX7uCg)    提取码：fzjn
+- 编写可读代码的艺术  [百度云下载链接](https://pan.baidu.com/s/1kBwWuQwrC70WsyfuSbZSNw)    提取码：qvdp
 
 # 面试
 
