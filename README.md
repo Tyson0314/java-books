@@ -137,6 +137,9 @@
 - 剑指Offer  [百度云下载链接](https://pan.baidu.com/s/1t-KI8GdcAiKAX1Ij-rQxfQ)    提取码：iyzf
 - labuladong的算法小抄  [百度云下载链接](https://pan.baidu.com/s/1fnpK2MpG2y4Ifhy_EDwapw)    提取码：8q93
 - 算法导论 第三版  [百度云下载链接](https://pan.baidu.com/s/1UReCxF_YBQIOZC6oOv10VQ)    提取码： si28
+- 背包九讲2.0  [百度云下载链接](https://pan.baidu.com/s/1jaYypRx-eLHbcFnBW1oDZA)    提取码：qxsm
+- 编程珠玑  [百度云下载链接](https://pan.baidu.com/s/1VMTlh8hYPt58ZKWfi3Slxw)    提取码：ptls
+- 算法之美  [百度云下载链接](https://pan.baidu.com/s/1st-7e_fbbD7isIrPdI6v_A)    提取码：ipjo
 
 # 分布式
 
