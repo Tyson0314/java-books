@@ -8,7 +8,11 @@
 
 
 
+
+
 **本仓库的书籍来源于网络，版权归原作者所有，不以盈利为目的，仅限学习使用，如有侵权请联系 1713476357@qq.com 删除。**
+
+
 
 本人断断续续花了一个多月的时间，从各个学习网站上收集了**200多本经典的计算机电子书、个人笔记和面试资料**，在这里分享有需要的人，希望可以帮助到曾经像我一样的新手，节省下找资料的时间。
 
@@ -20,14 +24,14 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Java基础](#java%E5%9F%BA%E7%A1%80)
+- [Java](#java)
+- [数据库](#%E6%95%B0%E6%8D%AE%E5%BA%93)
+- [设计模式](#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 - [框架](#%E6%A1%86%E6%9E%B6)
 - [并发](#%E5%B9%B6%E5%8F%91)
-- [数据库](#%E6%95%B0%E6%8D%AE%E5%BA%93)
 - [缓存](#%E7%BC%93%E5%AD%98)
 - [消息队列](#%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97)
 - [Web架构](#web%E6%9E%B6%E6%9E%84)
-- [设计模式](#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 - [计算机网络](#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
 - [数据结构与算法](#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
 - [分布式](#%E5%88%86%E5%B8%83%E5%BC%8F)
@@ -49,7 +53,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Java基础
+# Java
 - 阿里巴巴Java开发手册(终极版)  [百度云下载链接](https://pan.baidu.com/s/1oU2quyXNSnIMSlf_RsjzVQ)    提取码：zmbd
 - Java编程思想第四版  [百度云下载链接](https://pan.baidu.com/s/1KZckemrmKzi3bg4N0VIb_w)    提取码：fbzn
 - Java 8实战（中文版）  [百度云下载链接](https://pan.baidu.com/s/1FfkCDwFOuYFSA-rOy3ZIqQ)    提取码：haqz
@@ -59,6 +63,26 @@
 - Effective Java  [百度云下载链接](https://pan.baidu.com/s/1sBe5XcpUGlqT5Uvvc-RnpA)    提取码：bilg
 - 深入理解Java虚拟机_  [百度云下载链接](https://pan.baidu.com/s/1CS8YF_RNM5b_xiMJp1uRiw)    提取码：pthc
 - Java核心技术 卷 2 高级特性 原书第10版  [百度云下载链接](https://pan.baidu.com/s/1ZVXcZpZehQU-hlpSpQrN2A)    提取码：pbaf
+
+# 数据库
+
+- MySQL 必知必会    [百度云下载链接](https://pan.baidu.com/s/1nYBDQ6q3oBAAZcAXG4F-aw)  njia
+- 高性能mysql第三版  [百度云下载链接](https://pan.baidu.com/s/1zsuAqxo2ghLmoGEPo7lK4A)    提取码：vtt8
+- MySQL技术内幕  InnoDB存储引擎  [百度云下载链接](https://pan.baidu.com/s/1DVcjLVd07QdVmdxg-8WN7w)    提取码：mgc1
+- 深入浅出MySQL  [百度云下载链接](https://pan.baidu.com/s/1m_ufXSQmRBZ7lX8Sb2HDyw)    提取码：8ea6
+- SQLite 权威指南  [百度云下载链接](https://pan.baidu.com/s/1b_p1SbMTF7xjATgyXGinSw)    提取码：txib
+- 数据库系统概念    [百度云下载链接](https://pan.baidu.com/s/1G3ztjHfGIr7Eq6ukQFvamA) 提取码：ict7
+- SQL学习指南  [百度云下载链接](https://pan.baidu.com/s/16RLi-oy9zlmLsLu6yEMvhw)    提取码：d7v4
+- SQL必知必会 第4版  [百度云下载链接](https://pan.baidu.com/s/1nMWTxhCqfP6bVWoyLvpbyg)    提取码：57k9
+- MongoDB权威指南  [百度云下载链接](https://pan.baidu.com/s/1B1UJh3gFx4AF-ZUxdd8MKw)    提取码：xvvt
+
+# 设计模式
+
+- HeadFirst设计模式       [百度云下载链接](https://pan.baidu.com/s/1m4f8vY6PWR80Zk8j7KUqEA)  提取码：9tcv
+- 大话设计模式     [百度云下载链接](https://pan.baidu.com/s/11HGanWdKOJKfzKIOclVy9Q)  提取码：yun2
+- 设计模式_可复用面向对象软件的基础       [百度云下载链接](https://pan.baidu.com/s/1PpqVjV8J46MDoalSr9bvzA)  提取码：qv32
+- 图解设计模式       [百度云下载链接](https://pan.baidu.com/s/1t8ZYPWtAVXMYfXiTT1wD1A)  提取码： mynp
+- 设计模式之禅（第2版）    [百度云下载链接](https://pan.baidu.com/s/1S7xVtrP8d3xSlN5pOfcgwg)  提取码： nb4h
 
 # 框架
 
@@ -82,18 +106,6 @@
 - 实战Java高并发程序设计  [百度云下载链接](https://pan.baidu.com/s/16_rqNAsUzXmUPqr_fKq1BA) 提取码：wixj
 - JAVA多线程设计模式（带完整书签清晰扫描版）  [百度云下载链接](https://pan.baidu.com/s/1-n48XunX-tQo-XG5MkINuw) 提取码：2yh7
 
-# 数据库
-
-- MySQL 必知必会    [百度云下载链接](https://pan.baidu.com/s/1nYBDQ6q3oBAAZcAXG4F-aw)  njia
-- 高性能mysql第三版  [百度云下载链接](https://pan.baidu.com/s/1zsuAqxo2ghLmoGEPo7lK4A)    提取码：vtt8
-- MySQL技术内幕  InnoDB存储引擎  [百度云下载链接](https://pan.baidu.com/s/1DVcjLVd07QdVmdxg-8WN7w)    提取码：mgc1
-- 深入浅出MySQL  [百度云下载链接](https://pan.baidu.com/s/1m_ufXSQmRBZ7lX8Sb2HDyw)    提取码：8ea6
-- SQLite 权威指南  [百度云下载链接](https://pan.baidu.com/s/1b_p1SbMTF7xjATgyXGinSw)    提取码：txib
-- 数据库系统概念    [百度云下载链接](https://pan.baidu.com/s/1G3ztjHfGIr7Eq6ukQFvamA) 提取码：ict7
-- SQL学习指南  [百度云下载链接](https://pan.baidu.com/s/16RLi-oy9zlmLsLu6yEMvhw)    提取码：d7v4
-- SQL必知必会 第4版  [百度云下载链接](https://pan.baidu.com/s/1nMWTxhCqfP6bVWoyLvpbyg)    提取码：57k9
-- MongoDB权威指南  [百度云下载链接](https://pan.baidu.com/s/1B1UJh3gFx4AF-ZUxdd8MKw)    提取码：xvvt
-
 # 缓存
 
 - Redis入门指南 第2版  [百度云下载链接](https://pan.baidu.com/s/1kWDGl3NWOxV0JvXKpFbjKw)    提取码：obeh
@@ -112,14 +124,6 @@
 - 大型网站系统与JAVA中间件实践       [百度云下载链接](https://pan.baidu.com/s/1peMMXiUFVhH_n8noZwyD1A)  提取码：yikj
 - 架构探险从零开始写javaweb框架      [百度云下载链接](https://pan.baidu.com/s/1tm6uG43lSBjIwIXLkfpLAA)  提取码：xeri
 - Head First Servlets and JSP      [百度云下载链接](https://pan.baidu.com/s/157InjRKuMgXJn5Hl4hT6IA)  提取码：54n4
-
-# 设计模式
-
-- HeadFirst设计模式       [百度云下载链接](https://pan.baidu.com/s/1m4f8vY6PWR80Zk8j7KUqEA)  提取码：9tcv
-- 大话设计模式     [百度云下载链接](https://pan.baidu.com/s/11HGanWdKOJKfzKIOclVy9Q)  提取码：yun2
-- 设计模式_可复用面向对象软件的基础       [百度云下载链接](https://pan.baidu.com/s/1PpqVjV8J46MDoalSr9bvzA)  提取码：qv32
-- 图解设计模式       [百度云下载链接](https://pan.baidu.com/s/1t8ZYPWtAVXMYfXiTT1wD1A)  提取码： mynp
-- 设计模式之禅（第2版）    [百度云下载链接](https://pan.baidu.com/s/1S7xVtrP8d3xSlN5pOfcgwg)  提取码： nb4h
 
 # 计算机网络
 
@@ -223,7 +227,12 @@
 - C语言函数大全  [百度云下载链接](https://pan.baidu.com/s/1589FRtxXvF8kbv-0wyCSNw)    提取码：qsmf
 - C程序设计语言（第2版）中文译版  [百度云下载链接](https://pan.baidu.com/s/17vZKrtaUuaEkKgA_DqeC6g)    提取码：pcmj
 - C和指针  [百度云下载链接](https://pan.baidu.com/s/17zsELqH0RAg3YcWem-0BEQ)    提取码：vahz
-- C_Primer_Plus（第五版）  [百度云下载链接](https://pan.baidu.com/s/1cZzuzlahnQvMNbmrkEbh_A)    提取码：fwjv
+- C语言参考手册第五版  [百度云下载链接](https://pan.baidu.com/s/1Sljn8Him5-QFz9P2xVv-9g)    提取码：afmj
+- C程序设计(第四版).谭浩强  [百度云下载链接](https://pan.baidu.com/s/1GgEFGfM2jPKZ3gMetWZAnA)    提取码：ylsi
+- C和指针  [百度云下载链接](https://pan.baidu.com/s/1bp01A2gF1J8paQOUy9k8xQ)    提取码：vmcy
+- C标准库中文版  [百度云下载链接](https://pan.baidu.com/s/1fMCEsf0AqyjqQUJTWbAOXw)    提取码：bvex
+- C专家编程  [百度云下载链接](https://pan.baidu.com/s/1-t0K4-zj_91Qo6wXs1Ij6w)    提取码：txob
+- Microsoft编写优质无错C程序秘诀  [百度云下载链接](https://pan.baidu.com/s/1C14Lr31AGurX_i4vtvWo4w)    提取码：cywx
 
 # C++
 
@@ -234,6 +243,7 @@
 - C++编程规范-101条规则准则与最佳实践  [百度云下载链接](https://pan.baidu.com/s/1SjSh6PNbXF5GWvngDz9FMA)    提取码：cghr
 - More_Effective_C++中文版  [百度云下载链接](https://pan.baidu.com/s/1R5c5CBYhCzHbxoTWuLu6Vw)    提取码：hkrp
 - C++primer_5th  [百度云下载链接](https://pan.baidu.com/s/1TTac31dIqqr0K_KHio1uvw)    提取码：odsn
+- C_Primer_Plus（第五版）  [百度云下载链接](https://pan.baidu.com/s/1cZzuzlahnQvMNbmrkEbh_A)    提取码：fwjv
 
 # 前端
 
