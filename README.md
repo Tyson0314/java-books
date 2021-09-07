@@ -256,6 +256,11 @@
 - 深度探索C++对象模型  [百度云下载链接](https://pan.baidu.com/s/12Q_ikzf7qFykkOZxS3Hv3w)    提取码：daob
 - C++ Template 全览, 中文版  [百度云下载链接](https://pan.baidu.com/s/1jSQGkMB7uPuNUrSAkyU6Sw)    提取码：hsbc
 
+# C#
+
+- c#图解教程 第4版  [百度云下载链接](https://pan.baidu.com/s/1IXDBGfO8JEQM0j2uso34HQ)    提取码：vxws
+- 深入理解C#  [百度云下载链接](https://pan.baidu.com/s/1HOP0xgirdFFAonSg3Zp00Q)    提取码：sprx
+
 # 前端
 
 - HTML5揭秘  [百度云下载链接](https://pan.baidu.com/s/1RmLgvy0w6LnLk8_UoVcLog)    提取码：gzlv
