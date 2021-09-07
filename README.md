@@ -244,6 +244,17 @@
 - More_Effective_C++中文版  [百度云下载链接](https://pan.baidu.com/s/1R5c5CBYhCzHbxoTWuLu6Vw)    提取码：hkrp
 - C++primer_5th  [百度云下载链接](https://pan.baidu.com/s/1TTac31dIqqr0K_KHio1uvw)    提取码：odsn
 - C_Primer_Plus（第五版）  [百度云下载链接](https://pan.baidu.com/s/1cZzuzlahnQvMNbmrkEbh_A)    提取码：fwjv
+- Qt Creator快速入门  [百度云下载链接](https://pan.baidu.com/s/1Z-0PLrnUf5HUngUUoRNG-g)    提取码：guwb
+- C++沉思录  [百度云下载链接](https://pan.baidu.com/s/17MY0lGczxAMP3MC3z3JYZA)    提取码：aupo
+- C++并发编程  [百度云下载链接](https://pan.baidu.com/s/1ARC9QgDjxrcTPjVlNMV7wQ)    提取码：sitr
+- OpenCV3编程入门 毛星云编著 电子工业出版  [百度云下载链接](https://pan.baidu.com/s/10v0ZX5-LiRPqNfFAzTT3gg)    提取码：sflt
+- 深入理解C++11：C++11新特性解析与应用  [百度云下载链接](https://pan.baidu.com/s/1uuS4sYjIMSllzWO4wzSC1g)    提取码：optz
+- Effective C++ 改善程序与设计的55个具体做法 中文第三版  [百度云下载链接](https://pan.baidu.com/s/1VxA-28BSqCzcrx5CJbc5ng)    提取码：ifvt
+- STL源码剖析简体中文完整版  [百度云下载链接](https://pan.baidu.com/s/1gTz224iqqsYfPZwmOzmb5A)    提取码：lzeu
+- google C++ 编码规范(完整版)  [百度云下载链接](https://pan.baidu.com/s/1QcUknB_Ah6HwYQ7_NdUDeQ)    提取码：dkfw
+- 学习OpenCV（中文版）  [百度云下载链接](https://pan.baidu.com/s/1SfjsyLClSRQDyJ7rO3c0OA)    提取码：rpja
+- 深度探索C++对象模型  [百度云下载链接](https://pan.baidu.com/s/12Q_ikzf7qFykkOZxS3Hv3w)    提取码：daob
+- C++ Template 全览, 中文版  [百度云下载链接](https://pan.baidu.com/s/1jSQGkMB7uPuNUrSAkyU6Sw)    提取码：hsbc
 
 # 前端
 
