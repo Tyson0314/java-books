@@ -1,5 +1,5 @@
-> 首先给大家分享一个Github仓库，用于分享**Java核心知识**，包括Java基础、MySQL、SpringBoot、Mybatis、Redis、RabbitMQ等等，**面试必备**。
->
+首先给大家分享一个Github仓库，用于分享**Java核心知识**，包括Java基础、MySQL、SpringBoot、Mybatis、Redis、RabbitMQ等等，**面试必备**。
+
 > github仓库地址：https://github.com/Tyson0314/Java-learning
 >
 > 如果github访问不了，可以访问gitee仓库。
@@ -56,15 +56,15 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Java
-- 阿里巴巴Java开发手册(终极版)  [百度云下载链接](https://pan.baidu.com/s/1oU2quyXNSnIMSlf_RsjzVQ)    提取码：zmbd
-- Java编程思想第四版  [百度云下载链接](https://pan.baidu.com/s/1KZckemrmKzi3bg4N0VIb_w)    提取码：fbzn
-- Java 8实战（中文版）  [百度云下载链接](https://pan.baidu.com/s/1FfkCDwFOuYFSA-rOy3ZIqQ)    提取码：haqz
-- 写给大忙人看的JavaSE8  [百度云下载链接](https://pan.baidu.com/s/1EUdh_bybCPe5GKZhRl1x2g)    提取码：jbuw
-- Head First Java  [百度云下载链接](https://pan.baidu.com/s/1oAt8lghZaQEFE7dOQ7kYqg)    提取码：zyfa
-- Java核心技术  卷1  基础知识  原书第10版  [百度云下载链接](https://pan.baidu.com/s/1VafVZRumYOC9OW8zghhiJA)    提取码：napu
-- Effective Java  [百度云下载链接](https://pan.baidu.com/s/1sBe5XcpUGlqT5Uvvc-RnpA)    提取码：bilg
-- 深入理解Java虚拟机_  [百度云下载链接](https://pan.baidu.com/s/1CS8YF_RNM5b_xiMJp1uRiw)    提取码：pthc
-- Java核心技术 卷 2 高级特性 原书第10版  [百度云下载链接](https://pan.baidu.com/s/1ZVXcZpZehQU-hlpSpQrN2A)    提取码：pbaf
+- Java编程思想第四版  [百度云下载链接](https://pan.baidu.com/s/1Rs3GUIFkX3i7mnSASJulyA)    提取码：ncbr
+- Java 8实战（中文版）  [百度云下载链接](https://pan.baidu.com/s/1RBaILeF_G6ZpooYDYEhqKw)    提取码：cbnq
+- 阿里巴巴Java开发手册(终极版)  [百度云下载链接](https://pan.baidu.com/s/1fIp_d2yotjF6XnCBRF8WQQ)    提取码：odzs
+- Head First Java  [百度云下载链接](https://pan.baidu.com/s/1fvRJH47Q6Am0H2Appcrnpg)    提取码：zoxi
+- Java核心技术  卷1  基础知识  原书第10版  [百度云下载链接](https://pan.baidu.com/s/1QFJzG6txxCPy0o1OOXa_uw)    提取码：owgz
+- Effective Java  [百度云下载链接](https://pan.baidu.com/s/1r1e7NqEPzin2xqkL1QiHTA)    提取码：oyja
+- Java核心技术 卷 2 高级特性 原书第10版  [百度云下载链接](https://pan.baidu.com/s/1cvjTX7UyhPESWCuXfHp0lw)    提取码：yfnm
+- 写给大忙人看的JavaSE8  [百度云下载链接](https://pan.baidu.com/s/1EhHA3icAcnv2emsDNbd0Aw)    提取码：jhdf
+- 深入理解Java虚拟机   [百度云下载链接](https://pan.baidu.com/s/1OLAqWyF-hX9WGme0nKceMA)    提取码：fled
 
 # 数据库
 
@@ -104,11 +104,12 @@
 
 # 并发
 
-- 深入浅出Java多线程--RedSpider社区几位大佬编写的，强推！ [百度云下载链接](https://pan.baidu.com/s/1Cf-UTdOZzNjXfPX2r_a8OA)  提取码：jpmn
-- Java并发编程实战（中文版） [百度云下载链接](https://pan.baidu.com/s/1i8Yc-72BRZ-Z0Ed8BDJJeg) 提取码：gmuv
-- Java多线程编程核心技术  [百度云下载链接](https://pan.baidu.com/s/1YvFQ9CMyzH3_jT95Q1Wlwg) 提取码：57kp
-- 实战Java高并发程序设计  [百度云下载链接](https://pan.baidu.com/s/16_rqNAsUzXmUPqr_fKq1BA) 提取码：wixj
-- JAVA多线程设计模式（带完整书签清晰扫描版）  [百度云下载链接](https://pan.baidu.com/s/1-n48XunX-tQo-XG5MkINuw) 提取码：2yh7
+- Java并发编程实战  [百度云下载链接](https://pan.baidu.com/s/1Z-ABGqfG1eoJN5iPjQgflw)    提取码：yhfu
+- 深入浅出 Java 多线程  [百度云下载链接](https://pan.baidu.com/s/1FByTY3fqTOlqXbiAtqxDbg)    提取码：btcf
+- Java多线程编程核心技术  [百度云下载链接](https://pan.baidu.com/s/1Wcn-ARl4LumMFT2zxBvPWg)    提取码：pfcs
+- JAVA并发编程实践  [百度云下载链接](https://pan.baidu.com/s/1FJLFWxFH2YnrDZNoo67RxQ)    提取码：npas
+- JAVA多线程设计模式  [百度云下载链接](https://pan.baidu.com/s/13mUr3sjlrTdWwa98k0y7og)    提取码：uoac
+- 实战Java高并发程序设计  [百度云下载链接](https://pan.baidu.com/s/1agT1cl2XWDj-q8x9vNHl5w)    提取码：msho
 
 # 缓存
 
@@ -119,8 +120,8 @@
 
 # 消息队列
 
-- Kafka权威指南  [百度云下载链接](https://pan.baidu.com/s/1YsoxAwYPInnmltRH33De5w)    提取码：rfvh
-- RabbitMQ实战 高效部署分布式消息队列  [百度云下载链接](https://pan.baidu.com/s/1HwKeyraNkVAufugiCAvQtA)    提取码：i2dq
+- Kafka权威指南  [百度云下载链接](https://pan.baidu.com/s/1jH_PUKGZRrhTn2LbVKY-TA)    提取码：tfih
+- RabbitMQ实战 高效部署分布式消息队列  [百度云下载链接](https://pan.baidu.com/s/1kFKLfRTYFZ7JaEcA9fIpyA)    提取码：nays
 
 # Web架构
 
@@ -169,13 +170,13 @@
 
 # Linux
 
-- Linux学习笔记  [百度云下载链接](https://pan.baidu.com/s/1IESM91362lOBe-83q2SIIg)    提取码：mcyd
-- 鸟哥的Linux私房菜 基础学习篇(第三版)-清晰版  [百度云下载链接](https://pan.baidu.com/s/1sx7TqRAJi7A-9bo-Byz0cA)    提取码：dxkv
-- Linux Shell脚本攻略（第2版）  [百度云下载链接](https://pan.baidu.com/s/1HTwE5Qsyq75sX9cRXt-iJA)    提取码：lewm
-- UNIX网络编程_卷2_进程间通信  [百度云下载链接](https://pan.baidu.com/s/1dF_yfADJ1_H2A4l5uG23Hg)    提取码：dapt
-- UNIX网络编程_卷1_套接字联网API  [百度云下载链接](https://pan.baidu.com/s/1b7qIM5hPPHIpTGGDtjvdGQ)    提取码：mkah
-- 鸟哥的Linux私房菜 服务器篇(第三版)  [百度云下载链接](https://pan.baidu.com/s/1y1i1W-pAEz5q345oghpxWQ)    提取码：zcak
-- UNIX环境高级编程 第二版中文  [百度云下载链接](https://pan.baidu.com/s/1N3OQ0o3OW7BDK6dNEiMPQA)    提取码：slyz
+- Linux学习笔记  [百度云下载链接](https://pan.baidu.com/s/1gDxOA6iygg_7aN34lEeMcA)    提取码：kbov
+- UNIX环境高级编程 第二版中文  [百度云下载链接](https://pan.baidu.com/s/140qNImEVv_2GGvFSR5zm6g)    提取码：wstx
+- 鸟哥的Linux私房菜 服务器篇(第三版)  [百度云下载链接](https://pan.baidu.com/s/1_ZB9t_un3iS1hK-zwjoIZA)    提取码：irpf
+- Linux Shell脚本攻略（第2版）  [百度云下载链接](https://pan.baidu.com/s/17r6VxtL8kwkw0QxGunWnOg)    提取码：emdu
+- UNIX网络编程 卷2 进程间通信  [百度云下载链接](https://pan.baidu.com/s/1fhEpq24CDqz_mE_ZMmgCgQ)    提取码：yang
+- UNIX网络编程 卷1 套接字联网API  [百度云下载链接](https://pan.baidu.com/s/1BwAxJ0Ghj4CdIrQNEEZnrA)    提取码：myxa
+- 鸟哥的Linux私房菜 基础学习篇(第三版)-清晰版  [百度云下载链接](https://pan.baidu.com/s/14Jbcez2ppk_oSDk5DAcMKw)    提取码：gukq
 
 # 大数据
 
@@ -208,60 +209,59 @@
 
 # C
 
-- C程序设计语言     [百度云下载链接](https://pan.baidu.com/s/1OfySnM0_XgOBENAOvllu-A)    提取码：sirn
-- C语言深度解剖  [百度云下载链接](https://pan.baidu.com/s/1YdzreC10TFxNGw0VAPnJiA)    提取码：oqtw
-- C语言函数大全  [百度云下载链接](https://pan.baidu.com/s/1589FRtxXvF8kbv-0wyCSNw)    提取码：qsmf
-- C程序设计语言（第2版）中文译版  [百度云下载链接](https://pan.baidu.com/s/17vZKrtaUuaEkKgA_DqeC6g)    提取码：pcmj
-- C和指针  [百度云下载链接](https://pan.baidu.com/s/17zsELqH0RAg3YcWem-0BEQ)    提取码：vahz
-- C语言参考手册第五版  [百度云下载链接](https://pan.baidu.com/s/1Sljn8Him5-QFz9P2xVv-9g)    提取码：afmj
-- C程序设计(第四版).谭浩强  [百度云下载链接](https://pan.baidu.com/s/1GgEFGfM2jPKZ3gMetWZAnA)    提取码：ylsi
-- C和指针  [百度云下载链接](https://pan.baidu.com/s/1bp01A2gF1J8paQOUy9k8xQ)    提取码：vmcy
-- C标准库中文版  [百度云下载链接](https://pan.baidu.com/s/1fMCEsf0AqyjqQUJTWbAOXw)    提取码：bvex
-- C专家编程  [百度云下载链接](https://pan.baidu.com/s/1-t0K4-zj_91Qo6wXs1Ij6w)    提取码：txob
-- Microsoft编写优质无错C程序秘诀  [百度云下载链接](https://pan.baidu.com/s/1C14Lr31AGurX_i4vtvWo4w)    提取码：cywx
+- C程序设计语言(英文第2版)  [百度云下载链接](https://pan.baidu.com/s/12VlqLuxYe-SlLdr-u1VMTw)    提取码：xipn
+- C程序设计语言（第2版）中文译版  [百度云下载链接](https://pan.baidu.com/s/18rrs3D0U9AZ1Xae2naHedg)    提取码：bxoa
+- C和指针  [百度云下载链接](https://pan.baidu.com/s/12FTiJO3M3xAol8nHOq4uog)    提取码：ljwp
+- C语言深度解剖  [百度云下载链接](https://pan.baidu.com/s/1GNiFcw0afHmoj2UzVYpgBg)    提取码：zmoc
+- C语言函数大全  [百度云下载链接](https://pan.baidu.com/s/1H3J7jC_kKd6wDyPcfHZv2w)    提取码：crzm
+- Microsoft编写优质无错C程序秘诀  [百度云下载链接](https://pan.baidu.com/s/1WmzLJa8atKuPJ8qohqGUhQ)    提取码：mtdc
+- C语言参考手册第五版  [百度云下载链接](https://pan.baidu.com/s/1wNt3pw95jqJEXmzCYAntLQ)    提取码：omku
+- C专家编程  [百度云下载链接](https://pan.baidu.com/s/1ZmMIwlySywsKfaqPMKreZQ)    提取码：wtyv
+- C程序设计(第四版).谭浩强  [百度云下载链接](https://pan.baidu.com/s/1B-7qKmcyQHPxLjaHvAD6ZA)    提取码：klhn
+- C标准库中文版  [百度云下载链接](https://pan.baidu.com/s/1lJmkZTswD7Ru9EnBTTxFNw)    提取码：uejy
+- C Primer Plus（第五版）   [百度云下载链接](https://pan.baidu.com/s/1ksbl-x8x3lt8LacI2N-PRA)    提取码：dntl
 
 # C++
 
-- 深入探索C++对象模型  [百度云下载链接](https://pan.baidu.com/s/1i26nEJJw4GqCU3HBKWITOA)    提取码：zrej
-- STL源码剖析  [百度云下载链接](https://pan.baidu.com/s/1P66tqn70sjbxXJTVjtDkKQ)    提取码：puav
-- C++__Primer中文版__第5版_[（美）李普曼，（美）拉乔伊，（美）默著][电子工业出版社][2013.08][838页]  [百度云下载链接](https://pan.baidu.com/s/1YEAv1ZwUEHNRGYFkbypMBw)    提取码：iokm
-- Effective_STL_中文版  [百度云下载链接](https://pan.baidu.com/s/1Z8OoALQ0p68hJ-Q_qY-JhQ)    提取码：osua
-- C++编程规范-101条规则准则与最佳实践  [百度云下载链接](https://pan.baidu.com/s/1SjSh6PNbXF5GWvngDz9FMA)    提取码：cghr
-- More_Effective_C++中文版  [百度云下载链接](https://pan.baidu.com/s/1R5c5CBYhCzHbxoTWuLu6Vw)    提取码：hkrp
-- C++primer_5th  [百度云下载链接](https://pan.baidu.com/s/1TTac31dIqqr0K_KHio1uvw)    提取码：odsn
-- C_Primer_Plus（第五版）  [百度云下载链接](https://pan.baidu.com/s/1cZzuzlahnQvMNbmrkEbh_A)    提取码：fwjv
-- Qt Creator快速入门  [百度云下载链接](https://pan.baidu.com/s/1Z-0PLrnUf5HUngUUoRNG-g)    提取码：guwb
-- C++沉思录  [百度云下载链接](https://pan.baidu.com/s/17MY0lGczxAMP3MC3z3JYZA)    提取码：aupo
-- C++并发编程  [百度云下载链接](https://pan.baidu.com/s/1ARC9QgDjxrcTPjVlNMV7wQ)    提取码：sitr
-- OpenCV3编程入门 毛星云编著 电子工业出版  [百度云下载链接](https://pan.baidu.com/s/10v0ZX5-LiRPqNfFAzTT3gg)    提取码：sflt
-- 深入理解C++11：C++11新特性解析与应用  [百度云下载链接](https://pan.baidu.com/s/1uuS4sYjIMSllzWO4wzSC1g)    提取码：optz
-- Effective C++ 改善程序与设计的55个具体做法 中文第三版  [百度云下载链接](https://pan.baidu.com/s/1VxA-28BSqCzcrx5CJbc5ng)    提取码：ifvt
-- STL源码剖析简体中文完整版  [百度云下载链接](https://pan.baidu.com/s/1gTz224iqqsYfPZwmOzmb5A)    提取码：lzeu
-- google C++ 编码规范(完整版)  [百度云下载链接](https://pan.baidu.com/s/1QcUknB_Ah6HwYQ7_NdUDeQ)    提取码：dkfw
-- 学习OpenCV（中文版）  [百度云下载链接](https://pan.baidu.com/s/1SfjsyLClSRQDyJ7rO3c0OA)    提取码：rpja
-- 深度探索C++对象模型  [百度云下载链接](https://pan.baidu.com/s/12Q_ikzf7qFykkOZxS3Hv3w)    提取码：daob
-- C++ Template 全览, 中文版  [百度云下载链接](https://pan.baidu.com/s/1jSQGkMB7uPuNUrSAkyU6Sw)    提取码：hsbc
+- More Effective C++中文版  [百度云下载链接](https://pan.baidu.com/s/13yUqwXQlnyYcKdHPBPMD1A)    提取码：ogjh
+- 深入探索C++对象模型  [百度云下载链接](https://pan.baidu.com/s/1Hy0Ql8ROswCWN8dr31y4aA)    提取码：wolp
+- 深度探索C++对象模型  [百度云下载链接](https://pan.baidu.com/s/10nYVXAzTe4KhQfDUNdgztw)    提取码：xwrq
+- STL源码剖析  [百度云下载链接](https://pan.baidu.com/s/1UaC400OdAXzfl801ThWadA)    提取码：polw
+- STL源码剖析简体中文完整版  [百度云下载链接](https://pan.baidu.com/s/13DUah6Im39QHkVO5Uskwxg)    提取码：srqu
+- 深入理解C++11：C++11新特性解析与应用  [百度云下载链接](https://pan.baidu.com/s/1t3WUGxo8peDYmMth5oTT6Q)    提取码：drwb
+- 学习OpenCV（中文版）  [百度云下载链接](https://pan.baidu.com/s/1e-u5GysVBFMULtEEo2BeGQ)    提取码：vemf
+- OpenCV3编程入门 毛星云编著 电子工业出版  [百度云下载链接](https://pan.baidu.com/s/1WOHR0vNGfv-wY0Z2FJ-idw)    提取码：ftbg
+- C++ Template 全览, 中文版  [百度云下载链接](https://pan.baidu.com/s/1530rZKUrfzXt4kHdUsguLQ)    提取码：fcgv
+- Qt Creator快速入门  [百度云下载链接](https://pan.baidu.com/s/1NBtuJ7BOCAMiHonfC4xOnw)    提取码：jspw
+- C++  Primer中文版  第5版 [（美）李普曼，（美）拉乔伊，（美）默著][电子工业出版社][2013.08][838页]  [百度云下载链接](https://pan.baidu.com/s/1Lv057llTt7tl0yAQ_DOH3g)    提取码：hnqj
+- C++并发编程  [百度云下载链接](https://pan.baidu.com/s/1DfBIdcTMA86_fw0HAdSWEw)    提取码：pgbd
+- C++编程规范-101条规则准则与最佳实践  [百度云下载链接](https://pan.baidu.com/s/1XsBr0TxcHL39-GjRaTAeTA)    提取码：qyoj
+- C++primer 5th  [百度云下载链接](https://pan.baidu.com/s/1T7HW6I8pjp23UGATwBe2Og)    提取码：tipd
+- google C++ 编码规范(完整版)  [百度云下载链接](https://pan.baidu.com/s/1o0zalLR5S2Ak2SQ6Ztt8UQ)    提取码：itmp
+- Effective STL 中文版  [百度云下载链接](https://pan.baidu.com/s/1A9FOSzXfrXqVN2zRLLYTpw)    提取码：cbng
+- Effective C++ 改善程序与设计的55个具体做法 中文第三版  [百度云下载链接](https://pan.baidu.com/s/1fyCfTSKK7VeN4qUFDX6MVQ)    提取码：yjeh
+- C++沉思录  [百度云下载链接](https://pan.baidu.com/s/1CGbVP4aGunkAfidjiilXeg)    提取码：duxk
 
 # Go
 
-- 学习 Go 语言(Golang)  [百度云下载链接](https://pan.baidu.com/s/1yspmpadpYtLgENvPNx2BSQ)    提取码：znwa
-- Go语言实战  [百度云下载链接](https://pan.baidu.com/s/1SR5lNa8E2TzlJROeAlL36w)    提取码：shat
-- Go web 编程  [百度云下载链接](https://pan.baidu.com/s/12CN3h-dM4mR4Rwcj99A71g)    提取码：cltb
-- Go并发编程实战  [百度云下载链接](https://pan.baidu.com/s/1MaxOGcUn4ifMc2SmjVJ3og)    提取码：mu9f 
+- 学习 Go 语言(Golang)  [百度云下载链接](https://pan.baidu.com/s/17CAHfe4k9_rN0hU-2jXM3g)    提取码：kbdu
+- Go web 编程  [百度云下载链接](https://pan.baidu.com/s/1Hf8Bpl4yBBohLG9cU2fIOw)    提取码：pcfk
+- Go语言实战  [百度云下载链接](https://pan.baidu.com/s/1xM2rLZQvieOyPx1uGs9leQ)    提取码：dmvq
+- Go并发编程实战  [百度云下载链接](https://pan.baidu.com/s/1sXYMUD6TOiW7vpvWvw3VDQ)    提取码：oyid
 
 # Python
 
-- Python编程入门经典  [百度云下载链接](https://pan.baidu.com/s/1fbmrHg7Ld3Cb48bwLwbXCA)    提取码：xkgq
-- Python高级编程第2版_张亮 阿信（译）_人民邮电出版社_2017-10_v2_完整版  [百度云下载链接](https://pan.baidu.com/s/1xtgKEpr5_Bbaa-q-s3-ciQ)    提取码：bcdk
 - Python学习手册(第4版)  [百度云下载链接](https://pan.baidu.com/s/1yH8WbsQK9TuGyB8IxAb8KA)    提取码：celj
-- Python开发实战  [百度云下载链接](https://pan.baidu.com/s/1RDhbbX6abeu6nGpJFFV4CQ)    提取码：drhy
 - Python开发技术详解  [百度云下载链接](https://pan.baidu.com/s/1fGOU3YEWDOIV6ahAJR9qug)    提取码：eiom
-- 编程小白的第一本python入门书  [百度云下载链接](https://pan.baidu.com/s/1npGeipCsQTh-ggJhx1JZ0A)    提取码：peqo
+- 编程小白的第一本python入门书  [百度云下载链接](https://pan.baidu.com/s/16qOsdL45uZKQ63DRp05UgA)    提取码：qsiv
+- Python编程入门经典  [百度云下载链接](https://pan.baidu.com/s/1B2dNYHYaPcJ3jjB4cXtnoQ)    提取码：zufv
+- Python高级编程第2版 张亮 阿信（译） 人民邮电出版社 2017-10 v2 完整版  [百度云下载链接](https://pan.baidu.com/s/1XAHX0xWKUY5qYtpJTC9qLg)    提取码：irqd
+- Python开发实战  [百度云下载链接](https://pan.baidu.com/s/1afp7R-Zzeys4nBZolt8b4g)    提取码：dieq
 
 # C#
 
-- c#图解教程 第4版  [百度云下载链接](https://pan.baidu.com/s/1IXDBGfO8JEQM0j2uso34HQ)    提取码：vxws
-- 深入理解C#  [百度云下载链接](https://pan.baidu.com/s/1HOP0xgirdFFAonSg3Zp00Q)    提取码：sprx
+- 深入理解C#  [百度云下载链接](https://pan.baidu.com/s/1AwZ5n7bjLCKPAp7v3E2iUA)    提取码：frdo
+- c#图解教程 第4版  [百度云下载链接](https://pan.baidu.com/s/1-8HMyAXrSEppGuU6G4ANDQ)    提取码：ukhj
 
 # 前端
 
