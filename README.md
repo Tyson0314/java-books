@@ -1,24 +1,43 @@
-首先给大家分享一个Github仓库，用于分享**Java核心知识**，包括Java基础、MySQL、SpringBoot、Mybatis、Redis、RabbitMQ等等，**面试必备**。
-
-> github仓库地址：https://github.com/Tyson0314/Java-learning
->
-> 如果github访问不了，可以访问gitee仓库。
->
-> gitee仓库地址：https://gitee.com/tysondai/Java-learning
-
-
-
-
-
-**本仓库的书籍来源于网络，版权归原作者所有，不以盈利为目的，仅限学习使用，如有侵权请联系 1713476357@qq.com 删除。**
+<h1 align="center">200本计算机经典书籍分享</h1>
+<p align="center">
+    <br>
+    <a href="https://gitee.com/tysondai/img/raw/master/个人微信索隆（交流群）.png"><img src="https://gitee.com/tysondai/img/raw/master/WeChat-微信交流群-blue.svg" alt="微信交流群"></a>
+<a href="https://gitee.com/tysondai/img/raw/master/公众号.jpg"><img src="https://gitee.com/tysondai/img/raw/master/公众号-程序员大彬.svg" alt="公众号"></a>
+<a href="https://www.zhihu.com/people/dai-shu-bin-13"><img src="https://gitee.com/tysondai/img/raw/master/知乎-程序员大彬.svg" alt="知乎"></a>
+<a href="https://www.nowcoder.com/profile/8683776/myDiscussPost"><img src="https://gitee.com/tysondai/img/raw/master/牛客网-程序员大彬.svg" alt="牛客网"></a>
+<a href="https://juejin.cn/user/201965869218574/posts"><img src="https://gitee.com/tysondai/img/raw/master/掘金-程序员大彬.svg" alt="掘金"></a>
+<a href="https://github.com/Tyson0314/Java-learning"><img src="https://img.shields.io/badge/GitHub-计算机校招社招面试题汇总-critical.svg" alt="八股文"> 
+        </p>
 
 
+
+# 作者简介😜
+
+**大彬**，非科班转码，上学时玩过单片机、搭过服务器、参加过各种比赛。大三开始自学 Java 8个月，校招时拿了多家互联网中大厂offer。
+
+[点击此处](https://zhuanlan.zhihu.com/p/395162772)查看我的自学路线，一路走来，说难不难，说简单也不简单，只是比别人多花了点时间。自学路上很不容易，希望像我一样转行的小伙伴可以少踩坑！
+
+# 仓库简介
 
 本人断断续续花了一个多月的时间，从各个学习网站上收集了**200多本经典的计算机电子书、个人笔记和面试资料**，在这里分享有需要的人，希望可以帮助到曾经像我一样的新手，节省下找资料的时间。
 
 ![](https://gitee.com/tysondai/img/raw/master/image-20210902223746952.png)
 
 书单持续更新中，小伙伴们也可以帮忙一起完善书单，找不到想要的书籍可以提issue~
+
+**注意：本仓库的书籍来源于网络，版权归原作者所有，不以盈利为目的，仅限学习使用，如有侵权请联系 1713476357@qq.com 删除。**
+
+
+
+👍**推荐 [计算机校招社招高频面试题汇总](https://github.com/Tyson0314/Java-learning)**
+
+
+
+PS：如果想进**技术、面试交流群**，可以扫描下方二维码加我微信，**备注加群**，我拉你进群，群里有BAT大佬，互相学习~
+
+![个人微信new](https://gitee.com/tysondai/img/raw/master/个人微信索隆.jpg)
+
+
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
