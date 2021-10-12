@@ -19,7 +19,7 @@
 
 
 
-👍**推荐一份大厂面试手册 [计算机校招社招高频面试题汇总](https://github.com/Tyson0314/Java-learning)**
+PS：👍**推荐一份大厂面试手册 [计算机校招社招高频面试题汇总](https://github.com/Tyson0314/Java-learning)**
 
 # 仓库简介
 
@@ -35,7 +35,9 @@
 
 PS：如果想进**技术、面试交流群**，可以扫描下方二维码加我微信，**备注加群**，我拉你进群，群里有BAT大佬，互相学习~
 
-![个人微信new](https://gitee.com/tysondai/img/raw/master/个人微信索隆.jpg)
+<div align="center"><img src="https://gitee.com/tysondai/img/raw/master/个人微信索隆.jpg" style="zoom:50%;" />
+    <p></p>
+</div>
 
 
 
