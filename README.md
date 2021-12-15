@@ -214,7 +214,7 @@ PS：如果想进**技术、面试交流群**，可以扫描下方二维码加�
 - OpenCV3编程入门 毛星云编著 电子工业出版  [百度云下载链接](https://pan.baidu.com/s/1-Mm3Iwvvt-HRYQhJFn3LeA)    提取码：yvtq
 - C++ Template 全览, 中文版  [百度云下载链接](https://pan.baidu.com/s/15PG066--meojYuXW7p-WIg)    提取码：pgim
 - Qt Creator快速入门  [百度云下载链接](https://pan.baidu.com/s/1bTFHqT2127b_kHhrdtgfag)    提取码：aesf
-- C++  Primer中文版  第5版 [（美）李普曼，（美）拉乔伊，（美）默著][电子工业出版社][2013.08][838页]  [百度云下载链接](https://pan.baidu.com/s/1GwXaarCK7qPAjmsuGC2qcg)    提取码：smzr
+- C++  Primer中文版  第6版   [百度云下载链接](https://pan.baidu.com/s/1sez_Zc_8nuWsz3AfGMS9Rw) 提取码：smzr
 - C++并发编程  [百度云下载链接](https://pan.baidu.com/s/1SRJiDtleXA2rvWOjcxS5dA)    提取码：czlf
 - C++编程规范-101条规则准则与最佳实践  [百度云下载链接](https://pan.baidu.com/s/1GQ10rT7z1V-JAdlAJV5dBQ)    提取码：oyvz
 - C++primer 5th  [百度云下载链接](https://pan.baidu.com/s/1bJUGemBydhPjt-4Eyq0PIQ)    提取码：tvaq
