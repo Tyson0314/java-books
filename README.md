@@ -1,11 +1,11 @@
 <h1 align="center">200本计算机经典书籍分享</h1>
 <p align="center">
     <br>
-    <a href="https://gitee.com/tysondai/img/raw/master/个人微信索隆（交流群）.png"><img src="https://gitee.com/tysondai/img/raw/master/WeChat-微信交流群-blue.svg" alt="微信交流群"></a>
-<a href="https://gitee.com/tysondai/img/raw/master/公众号.jpg"><img src="https://gitee.com/tysondai/img/raw/master/公众号-程序员大彬.svg" alt="公众号"></a>
-<a href="https://www.zhihu.com/people/dai-shu-bin-13"><img src="https://gitee.com/tysondai/img/raw/master/知乎-程序员大彬.svg" alt="知乎"></a>
-<a href="https://www.nowcoder.com/profile/8683776/myDiscussPost"><img src="https://gitee.com/tysondai/img/raw/master/牛客网-程序员大彬.svg" alt="牛客网"></a>
-<a href="https://juejin.cn/user/201965869218574/posts"><img src="https://gitee.com/tysondai/img/raw/master/掘金-程序员大彬.svg" alt="掘金"></a>
+    <a href="https://raw.githubusercontent.com/Tyson0314/img/master/个人微信索隆（交流群）.png"><img src="https://raw.githubusercontent.com/Tyson0314/img/master/WeChat-微信交流群-blue.svg" alt="微信交流群"></a>
+<a href="https://raw.githubusercontent.com/Tyson0314/img/master/公众号.jpg"><img src="https://raw.githubusercontent.com/Tyson0314/img/master/公众号-程序员大彬.svg" alt="公众号"></a>
+<a href="https://www.zhihu.com/people/dai-shu-bin-13"><img src="https://raw.githubusercontent.com/Tyson0314/img/master/知乎-程序员大彬.svg" alt="知乎"></a>
+<a href="https://www.nowcoder.com/profile/8683776/myDiscussPost"><img src="https://raw.githubusercontent.com/Tyson0314/img/master/牛客网-程序员大彬.svg" alt="牛客网"></a>
+<a href="https://juejin.cn/user/201965869218574/posts"><img src="https://raw.githubusercontent.com/Tyson0314/img/master/掘金-程序员大彬.svg" alt="掘金"></a>
 <a href="https://github.com/Tyson0314/Java-learning"><img src="https://img.shields.io/badge/GitHub-计算机校招社招面试题汇总-critical.svg" alt="八股文"> 
         </p>
 
@@ -33,9 +33,10 @@ PS：👍**推荐一份大厂面试手册 [计算机校招社招高频面试题�
 
 PS：如果想进**技术、面试交流群**，可以扫描下方二维码加我微信，**备注加群**，我拉你进群，群里有BAT大佬，互相学习~
 
-<div align="center"><img src="https://gitee.com/tysondai/img/raw/master/个人微信索隆.jpg" style="zoom:50%;" />
+<div align="center"><img src="https://raw.githubusercontent.com/Tyson0314/img/master/个人微信索隆.jpg" style="zoom:50%;" />
     <p></p>
 </div>
+
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
