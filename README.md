@@ -31,11 +31,11 @@ PS：👍**推荐一份大厂面试手册 [计算机校招社招高频面试题�
 
 
 
-PS：如果想进**技术、面试交流群**，可以扫描下方二维码加我微信，**备注加群**，我拉你进群，群里有BAT大佬，互相学习~
+PS：此外，我建了一个**互联网求职交流群，群里会分享各大互联网公司校招资讯、面试和笔试题目，有需要的小伙伴可以扫码进群。**
 
-<div align="center"><img src="https://raw.githubusercontent.com/Tyson0314/img/master/个人微信索隆.jpg" style="zoom:50%;" />
-    <p></p>
-</div>
+![](https://raw.githubusercontent.com/Tyson0314/img/master/20220623213957.png)
+
+
 
 
 
