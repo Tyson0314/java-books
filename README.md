@@ -1,11 +1,11 @@
 <h1 align="center">200本计算机经典书籍分享</h1>
 <p align="center">
     <br>
-    <a href="https://raw.githubusercontent.com/Tyson0314/img/master/个人微信索隆（交流群）.png"><img src="https://raw.githubusercontent.com/Tyson0314/img/master/WeChat-微信交流群-blue.svg" alt="微信交流群"></a>
-<a href="https://raw.githubusercontent.com/Tyson0314/img/master/公众号.jpg"><img src="https://raw.githubusercontent.com/Tyson0314/img/master/公众号-程序员大彬.svg" alt="公众号"></a>
-<a href="https://www.zhihu.com/people/dai-shu-bin-13"><img src="https://raw.githubusercontent.com/Tyson0314/img/master/知乎-程序员大彬.svg" alt="知乎"></a>
-<a href="https://www.nowcoder.com/profile/8683776/myDiscussPost"><img src="https://raw.githubusercontent.com/Tyson0314/img/master/牛客网-程序员大彬.svg" alt="牛客网"></a>
-<a href="https://juejin.cn/user/201965869218574/posts"><img src="https://raw.githubusercontent.com/Tyson0314/img/master/掘金-程序员大彬.svg" alt="掘金"></a>
+    <a href="http://img.dabin-coder.cn/image/个人微信索隆（交流群）.png"><img src="http://img.dabin-coder.cn/image/WeChat-微信交流群-blue.svg" alt="微信交流群"></a>
+<a href="http://img.dabin-coder.cn/image/公众号.jpg"><img src="http://img.dabin-coder.cn/image/公众号-程序员大彬.svg" alt="公众号"></a>
+<a href="https://www.zhihu.com/people/dai-shu-bin-13"><img src="http://img.dabin-coder.cn/image/知乎-程序员大彬.svg" alt="知乎"></a>
+<a href="https://www.nowcoder.com/profile/8683776/myDiscussPost"><img src="http://img.dabin-coder.cn/image/牛客网-程序员大彬.svg" alt="牛客网"></a>
+<a href="https://juejin.cn/user/201965869218574/posts"><img src="http://img.dabin-coder.cn/image/掘金-程序员大彬.svg" alt="掘金"></a>
 <a href="https://github.com/Tyson0314/Java-learning"><img src="https://img.shields.io/badge/GitHub-计算机校招社招面试题汇总-critical.svg" alt="八股文"> 
         </p>
 
@@ -23,7 +23,7 @@ PS：👍**推荐一份大厂面试手册 [计算机校招社招高频面试题�
 
 本人断断续续花了一个多月的时间，从各个学习网站上收集了**200多本经典的计算机电子书、个人笔记和面试资料**，在这里分享有需要的人，希望可以帮助到曾经像我一样的新手，节省下找资料的时间。
 
-![](https://raw.githubusercontent.com/Tyson0314/img/master/image-20210902223746952.png)
+![](http://img.dabin-coder.cn/image/image-20210902223746952.png)
 
 书单持续更新中，小伙伴们也可以帮忙一起完善书单，找不到想要的书籍可以提issue~
 
@@ -31,9 +31,11 @@ PS：👍**推荐一份大厂面试手册 [计算机校招社招高频面试题�
 
 
 
-PS：此外，我建了一个**互联网求职交流群，群里会分享各大互联网公司校招资讯、面试和笔试题目，有需要的小伙伴可以扫码进群。**
+PS：如果想进**技术、面试交流群**，可以扫描下方二维码加我微信，**备注加群**，我拉你进群，群里有BAT大佬，互相学习~
 
-![](https://raw.githubusercontent.com/Tyson0314/img/master/20220623213957.png)
+<div align="center"><img src="http://img.dabin-coder.cn/image/个人微信索隆.jpg" style="zoom:50%;" />
+    <p></p>
+</div>
 
 
 
@@ -335,7 +337,7 @@ PS：此外，我建了一个**互联网求职交流群，群里会分享各大�
 
 | 微信                                                         | 支付宝                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://raw.githubusercontent.com/Tyson0314/img/master/微信收款.png) | ![](https://raw.githubusercontent.com/Tyson0314/img/master/支付宝赞赏码.png) |
+| ![](http://img.dabin-coder.cn/image/微信收款.png) | ![](http://img.dabin-coder.cn/image/支付宝赞赏码.png) |
 
 > 最后给大家分享另一个Github仓库，用于分享**互联网大厂高频面试题、Java核心知识总结**，包括Java基础、并发、MySQL、Springboot、MyBatis、Redis、RabbitMQ等等，面试必备！欢迎大家star！
 >
