@@ -85,6 +85,7 @@ PS：如果想进**技术、面试交流群**，可以扫描下方二维码加�
 - Java核心技术 卷 2 高级特性 原书第10版  [百度云下载链接](https://pan.baidu.com/s/126BEN1e7ab1U6kPEjXWDRQ)    提取码：wmov
 - 写给大忙人看的JavaSE8  [百度云下载链接](https://pan.baidu.com/s/1ZXaXyzFBcqK1e4lmoWQjuQ)    提取码：bvqf
 - 深入理解Java虚拟机   [百度云下载链接](https://pan.baidu.com/s/1Ya1HjRV14kee-T_UQITVqg)    提取码：atis
+- Java漫画书 [百度云下载链接](https://pan.baidu.com/s/1-SKaWciOhJ4xBdQR_PKgRQ)  提取码: ii7g
 
 # 数据库
 
