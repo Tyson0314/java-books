@@ -93,17 +93,16 @@ PS：如果想进**技术、面试交流群**，可以扫描下方二维码加�
 
 # 数据库
 
-- SQL学习指南  [百度云下载链接](https://pan.baidu.com/s/1ZmFdhgEAJPPKFmjCO0gxRg)    提取码：ibwp
-- MySQL性能优化的21个最佳实践  [百度云下载链接](https://pan.baidu.com/s/15bVDICpfCEcijNXjyU1Yjw)    提取码：qriw
-- SQLite 权威指南  [百度云下载链接](https://pan.baidu.com/s/1-BxMGu0O7Qk1Dzj4I15vzg)    提取码：cibr
+- SQL学习指南  [下载链接](https://pan.quark.cn/s/f0fe1d2027fa)  
+- MySQL性能优化的21个最佳实践  [下载链接](https://pan.quark.cn/s/98733efeb475) 
+- SQLite 权威指南  [下载链接](https://pan.quark.cn/s/890e880cd3d0) 
 - 深入浅出MySQL：数据库开发、优化与管理维护  [百度云下载链接](https://pan.baidu.com/s/1UF3CBjYeXiQH65dsPI7muA)    提取码：euxk
 - MySQL必知必会  [百度云下载链接](https://pan.baidu.com/s/14TrWxw2kbcmrC1EqXgEdiw)    提取码：nlgc
 - MongoDB权威指南  [百度云下载链接](https://pan.baidu.com/s/16UeSqyw0d_R0ng0q32hjRA)    提取码：ewcl
-- SQL必知必会 第4版  [百度云下载链接](https://pan.baidu.com/s/1ti1SRNov6ZVyxNERVNZveA)    提取码：wgin
-- 高性能MySQL（第3版）  [百度云下载链接](https://pan.baidu.com/s/1wfYewFoqG8bgvGyb50DhAQ)    提取码：jzeq
-- 高性能mysql第三版  [百度云下载链接](https://pan.baidu.com/s/1M45u3refIdVVJd0PGzl3rA)    提取码：wako
+- SQL必知必会 第4版  [下载链接](https://pan.quark.cn/s/75c5d1e916cb)  
+- 高性能MySQL第三版  [下载链接](https://pan.quark.cn/s/18213fe82b7d) 
 - MySQL技术内幕  InnoDB存储引擎  第2版  [百度云下载链接](https://pan.baidu.com/s/16hklWAOb55sehRpZOAaDZw)    提取码：raqe
-- 数据库系统概念  [百度云下载链接](https://pan.baidu.com/s/1FbRF00lfjjUcb27irHRDfA)    提取码：rtei
+- 数据库系统概念  [下载链接](https://pan.quark.cn/s/4a8c02246b07) 
 
 # 缓存
 
@@ -161,17 +160,17 @@ PS：如果想进**技术、面试交流群**，可以扫描下方二维码加�
 
 # 数据结构与算法
 
-- 数据结构与算法分析—C语言描述  [百度云下载链接](https://pan.baidu.com/s/1-KnLmebSD480amniojO2bg)    提取码：yuvz
+- 数据结构与算法分析—C语言描述  [下载链接](https://pan.quark.cn/s/b06e8bdeaed8)  
 - 算法图解  [百度云下载链接](https://pan.baidu.com/s/1d-csiFMCaLoqpE_ZZr8dGA)    提取码：vkos
 - 数据结构与算法分析 java语言描述（原书第3版）  [百度云下载链接](https://pan.baidu.com/s/1TsISSLvJ8PhdTDP5k4GZ7Q)    提取码：suby
 - 算法之美：指导工作与生活  [百度云下载链接](https://pan.baidu.com/s/1wfrTES2OwSEVjaPF52BLuw)    提取码：cbgk
 - 背包九讲2.0  [百度云下载链接](https://pan.baidu.com/s/1h6NNsstEvZEYftalvfJQtg)    提取码：soxk
 - 算法导论 第三版  [百度云下载链接](https://pan.baidu.com/s/1-indIwnhk8-wt7v6KLp3oQ)    提取码：hduz
 - labuladong的算法小抄  [百度云下载链接](https://pan.baidu.com/s/1AFabRcS6CYa9LdFYUGokBQ)    提取码：kbci
-- LeetCode刷题手册-阿里霜神  [百度云下载链接](https://pan.baidu.com/s/1Oz5w7dQPiS4lHgiRadociQ)    提取码：ekdx
-- 谷歌大佬LeetCode刷题笔记  [百度云下载链接](https://pan.baidu.com/s/1NV-wCa9QhA8zEzAdjwiP0g)    提取码：vpui
+- LeetCode刷题手册-阿里霜神  [下载链接](https://pan.quark.cn/s/6119ae5e40d2) 
+- 谷歌大佬LeetCode刷题笔记  [下载链接](https://pan.quark.cn/s/d4b696450aea)  
 - 编程珠玑  [百度云下载链接](https://pan.baidu.com/s/100eDgsFCnUN1mL7N_RuIEQ)    提取码：nzxt
-- 剑指Offer  [百度云下载链接](https://pan.baidu.com/s/1napasMTPIA-yIP8HG093EQ)    提取码：zlmt
+- 剑指Offer  [下载链接](https://pan.quark.cn/s/df8a8edee6c2) 
 - 数据结构(C语言版)  [百度云下载链接](https://pan.baidu.com/s/1_NxoY-d3luDCIfnxprFAdA)    提取码：ksyw
 
 # 操作系统
