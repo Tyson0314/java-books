@@ -81,7 +81,6 @@ PS：如果想进**技术、面试交流群**，可以扫描下方二维码加�
 
 # Java
 - Java编程思想第四版  [下载链接](https://pan.quark.cn/s/2bc61cadc2d8)    提取码：wsyh
-- Java 8实战（中文版）  [下载链接](https://pan.quark.cn/s/2bc61cadc2d8)    提取码：opzq
 - 阿里巴巴Java开发手册(终极版)  [下载链接](https://pan.quark.cn/s/2bc61cadc2d8)    提取码：nazl
 - Head First Java  [下载链接](https://pan.quark.cn/s/2bc61cadc2d8)    提取码：atxr
 - Java核心技术  卷1  基础知识  原书第10版  [下载链接](https://pan.quark.cn/s/2bc61cadc2d8)    提取码：hobd
@@ -89,17 +88,12 @@ PS：如果想进**技术、面试交流群**，可以扫描下方二维码加�
 - Java核心技术 卷 2 高级特性 原书第10版  [下载链接](https://pan.quark.cn/s/2bc61cadc2d8)    提取码：wmov
 - 写给大忙人看的JavaSE8  [下载链接](https://pan.quark.cn/s/2bc61cadc2d8)    提取码：bvqf
 - 深入理解Java虚拟机   [下载链接](https://pan.quark.cn/s/2bc61cadc2d8)    提取码：atis
-- Java漫画书 [下载链接](https://pan.quark.cn/s/2bc61cadc2d8)  提取码: ii7g
 
 # 数据库
 
 - SQL学习指南  [下载链接](https://pan.quark.cn/s/f0fe1d2027fa)  
 - MySQL性能优化的21个最佳实践  [下载链接](https://pan.quark.cn/s/98733efeb475) 
 - SQLite 权威指南  [下载链接](https://pan.quark.cn/s/890e880cd3d0) 
-- 深入浅出MySQL：数据库开发、优化与管理维护  [下载链接](https://pan.baidu.com/s/1UF3CBjYeXiQH65dsPI7muA)    提取码：euxk
-- MySQL必知必会  [下载链接](https://pan.baidu.com/s/14TrWxw2kbcmrC1EqXgEdiw)    提取码：nlgc
-- MongoDB权威指南  [下载链接](https://pan.baidu.com/s/16UeSqyw0d_R0ng0q32hjRA)    提取码：ewcl
-- SQL必知必会 第4版  [下载链接](https://pan.quark.cn/s/75c5d1e916cb)  
 - 高性能MySQL第三版  [下载链接](https://pan.quark.cn/s/18213fe82b7d) 
 - MySQL技术内幕  InnoDB存储引擎  第2版  [下载链接](https://pan.baidu.com/s/16hklWAOb55sehRpZOAaDZw)    提取码：raqe
 - 数据库系统概念  [下载链接](https://pan.quark.cn/s/4a8c02246b07) 
@@ -108,12 +102,9 @@ PS：如果想进**技术、面试交流群**，可以扫描下方二维码加�
 
 - Redis开发与运维  [下载链接](https://pan.quark.cn/s/ab738f95e44a)    提取码：acmy
 - Redis设计与实现  [下载链接](https://pan.quark.cn/s/ab738f95e44a)    提取码：islw
-- Redis实战  [下载链接](https://pan.quark.cn/s/ab738f95e44a)    提取码：fwdt
-- Redis入门指南 第2版  [下载链接](https://pan.quark.cn/s/ab738f95e44a)    提取码：ieya
 
 # 消息队列
 
-- Kafka权威指南  [下载链接](https://pan.baidu.com/s/1Bib19ABwbtL83MS-EWLoeg)    提取码：ipte
 - RabbitMQ实战 高效部署分布式消息队列  [下载链接](https://pan.baidu.com/s/16QZFQ06ugVKCU4fXiTXHVQ)    提取码：lrjn
 
 # Web架构
