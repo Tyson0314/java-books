@@ -80,16 +80,16 @@ PS：如果想进**技术、面试交流群**，可以扫描下方二维码加�
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Java
-- Java编程思想第四版  [下载链接](https://pan.xunlei.com/s/VNlBvqoaw2K8PGSz6krX_wk_A1?pwd=ygfj#)    提取码：wsyh
-- Java 8实战（中文版）  [下载链接](https://pan.xunlei.com/s/VNlBvqoaw2K8PGSz6krX_wk_A1?pwd=ygfj#)    提取码：opzq
-- 阿里巴巴Java开发手册(终极版)  [下载链接](https://pan.xunlei.com/s/VNlBvqoaw2K8PGSz6krX_wk_A1?pwd=ygfj#)    提取码：nazl
-- Head First Java  [下载链接](https://pan.xunlei.com/s/VNlBvqoaw2K8PGSz6krX_wk_A1?pwd=ygfj#)    提取码：atxr
-- Java核心技术  卷1  基础知识  原书第10版  [下载链接](https://pan.xunlei.com/s/VNlBvqoaw2K8PGSz6krX_wk_A1?pwd=ygfj#)    提取码：hobd
-- Effective Java  [下载链接](https://pan.xunlei.com/s/VNlBvqoaw2K8PGSz6krX_wk_A1?pwd=ygfj#)    提取码：jxqz
-- Java核心技术 卷 2 高级特性 原书第10版  [下载链接](https://pan.xunlei.com/s/VNlBvqoaw2K8PGSz6krX_wk_A1?pwd=ygfj#)    提取码：wmov
-- 写给大忙人看的JavaSE8  [下载链接](https://pan.xunlei.com/s/VNlBvqoaw2K8PGSz6krX_wk_A1?pwd=ygfj#)    提取码：bvqf
-- 深入理解Java虚拟机   [下载链接](https://pan.xunlei.com/s/VNlBvqoaw2K8PGSz6krX_wk_A1?pwd=ygfj#)    提取码：atis
-- Java漫画书 [下载链接](https://pan.xunlei.com/s/VNlBvqoaw2K8PGSz6krX_wk_A1?pwd=ygfj#)  提取码: ii7g
+- Java编程思想第四版  [下载链接](https://pan.xunlei.com/s/VNliBsWePgBmxdNNghrFYuPcA1?pwd=58nf#)    提取码：wsyh
+- Java 8实战（中文版）  [下载链接](https://pan.xunlei.com/s/VNliBsWePgBmxdNNghrFYuPcA1?pwd=58nf#)    提取码：opzq
+- 阿里巴巴Java开发手册(终极版)  [下载链接](https://pan.xunlei.com/s/VNliBsWePgBmxdNNghrFYuPcA1?pwd=58nf#)    提取码：nazl
+- Head First Java  [下载链接](https://pan.xunlei.com/s/VNliBsWePgBmxdNNghrFYuPcA1?pwd=58nf#)    提取码：atxr
+- Java核心技术  卷1  基础知识  原书第10版  [下载链接](https://pan.xunlei.com/s/VNliBsWePgBmxdNNghrFYuPcA1?pwd=58nf#)    提取码：hobd
+- Effective Java  [下载链接](https://pan.xunlei.com/s/VNliBsWePgBmxdNNghrFYuPcA1?pwd=58nf#)    提取码：jxqz
+- Java核心技术 卷 2 高级特性 原书第10版  [下载链接](https://pan.xunlei.com/s/VNliBsWePgBmxdNNghrFYuPcA1?pwd=58nf#)    提取码：wmov
+- 写给大忙人看的JavaSE8  [下载链接](https://pan.xunlei.com/s/VNliBsWePgBmxdNNghrFYuPcA1?pwd=58nf#)    提取码：bvqf
+- 深入理解Java虚拟机   [下载链接](https://pan.xunlei.com/s/VNliBsWePgBmxdNNghrFYuPcA1?pwd=58nf#)    提取码：atis
+- Java漫画书 [下载链接](https://pan.xunlei.com/s/VNliBsWePgBmxdNNghrFYuPcA1?pwd=58nf#)  提取码: ii7g
 
 # 数据库
 
@@ -106,10 +106,10 @@ PS：如果想进**技术、面试交流群**，可以扫描下方二维码加�
 
 # 缓存
 
-- Redis开发与运维  [下载链接](https://pan.quark.cn/s/61bf14dc73de)    提取码：acmy
-- Redis设计与实现  [下载链接](https://pan.quark.cn/s/61bf14dc73de)    提取码：islw
-- Redis实战  [下载链接](https://pan.quark.cn/s/61bf14dc73de)    提取码：fwdt
-- Redis入门指南 第2版  [下载链接](https://pan.quark.cn/s/61bf14dc73de)    提取码：ieya
+- Redis开发与运维  [下载链接](https://pan.xunlei.com/s/VNliBzTC7lTGGA3KReC3EcrHA1?pwd=9yvh#)    提取码：acmy
+- Redis设计与实现  [下载链接](https://pan.xunlei.com/s/VNliBzTC7lTGGA3KReC3EcrHA1?pwd=9yvh#)    提取码：islw
+- Redis实战  [下载链接](https://pan.xunlei.com/s/VNliBzTC7lTGGA3KReC3EcrHA1?pwd=9yvh#)    提取码：fwdt
+- Redis入门指南 第2版  [下载链接](https://pan.xunlei.com/s/VNliBzTC7lTGGA3KReC3EcrHA1?pwd=9yvh#)    提取码：ieya
 
 # 消息队列
 
