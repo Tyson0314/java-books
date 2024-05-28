@@ -93,16 +93,16 @@ PS：如果想进**技术、面试交流群**，可以扫描下方二维码加�
 
 # 数据库
 
-- SQL学习指南  [下载链接](https://pan.quark.cn/s/3007aa6c8c72)  
-- MySQL性能优化的21个最佳实践  [下载链接](https://pan.quark.cn/s/3007aa6c8c72) 
-- SQLite 权威指南  [下载链接](https://pan.quark.cn/s/3007aa6c8c72) 
-- 深入浅出MySQL：数据库开发、优化与管理维护  [下载链接](https://pan.quark.cn/s/3007aa6c8c72)    提取码：euxk
-- MySQL必知必会  [下载链接](https://pan.quark.cn/s/3007aa6c8c72)    提取码：nlgc
-- MongoDB权威指南  [下载链接](https://pan.quark.cn/s/3007aa6c8c72)    提取码：ewcl
-- SQL必知必会 第4版  [下载链接](https://pan.quark.cn/s/3007aa6c8c72)  
-- 高性能MySQL第三版  [下载链接](https://pan.quark.cn/s/3007aa6c8c72) 
-- MySQL技术内幕  InnoDB存储引擎  第2版  [下载链接](https://pan.quark.cn/s/3007aa6c8c72)    提取码：raqe
-- 数据库系统概念  [下载链接](https://pan.quark.cn/s/3007aa6c8c72) 
+- SQL学习指南  [下载链接](https://pan.xunlei.com/s/VNywy_wEpIv6z4n-EuqD0lmLA1?pwd=cvyz#)  
+- MySQL性能优化的21个最佳实践  [下载链接](https://pan.xunlei.com/s/VNywy_wEpIv6z4n-EuqD0lmLA1?pwd=cvyz#) 
+- SQLite 权威指南  [下载链接](https://pan.xunlei.com/s/VNywy_wEpIv6z4n-EuqD0lmLA1?pwd=cvyz#) 
+- 深入浅出MySQL：数据库开发、优化与管理维护  [下载链接](https://pan.xunlei.com/s/VNywy_wEpIv6z4n-EuqD0lmLA1?pwd=cvyz#)    提取码：euxk
+- MySQL必知必会  [下载链接](https://pan.xunlei.com/s/VNywy_wEpIv6z4n-EuqD0lmLA1?pwd=cvyz#)    提取码：nlgc
+- MongoDB权威指南  [下载链接](https://pan.xunlei.com/s/VNywy_wEpIv6z4n-EuqD0lmLA1?pwd=cvyz#)    提取码：ewcl
+- SQL必知必会 第4版  [下载链接](https://pan.xunlei.com/s/VNywy_wEpIv6z4n-EuqD0lmLA1?pwd=cvyz#)  
+- 高性能MySQL第三版  [下载链接](https://pan.xunlei.com/s/VNywy_wEpIv6z4n-EuqD0lmLA1?pwd=cvyz#) 
+- MySQL技术内幕  InnoDB存储引擎  第2版  [下载链接](https://pan.xunlei.com/s/VNywy_wEpIv6z4n-EuqD0lmLA1?pwd=cvyz#)    提取码：raqe
+- 数据库系统概念  [下载链接](https://pan.xunlei.com/s/VNywy_wEpIv6z4n-EuqD0lmLA1?pwd=cvyz#) 
 
 # 缓存
 
@@ -113,229 +113,229 @@ PS：如果想进**技术、面试交流群**，可以扫描下方二维码加�
 
 # 消息队列
 
-- Kafka权威指南  [下载链接](https://pan.quark.cn/s/546df4dc95c6)    提取码：ipte
-- RabbitMQ实战 高效部署分布式消息队列  [下载链接](https://pan.quark.cn/s/546df4dc95c6)    提取码：lrjn
+- Kafka权威指南  [下载链接](https://pan.xunlei.com/s/VNyx-xgEaXaR84AUJvDsWcaUA1?pwd=eefm#)    提取码：ipte
+- RabbitMQ实战 高效部署分布式消息队列  [下载链接](https://pan.xunlei.com/s/VNyx-xgEaXaR84AUJvDsWcaUA1?pwd=eefm#)    提取码：lrjn
 
 # Web架构
 
-- 亿级流量网站架构核心技术  [下载链接](https://pan.quark.cn/s/6e3ff4ecdb0d)    提取码：hjsa
-- Java EE互联网轻量级框架整合开发 SSM框架（Spring MVC+Spring+MyBatis）和Redis实现  [下载链接](https://pan.quark.cn/s/6e3ff4ecdb0d)    提取码：ojyb
-- 架构探险 从零开始写javaweb框架  [下载链接](https://pan.quark.cn/s/6e3ff4ecdb0d)    提取码：cwyt
-- 大型网站技术架构：核心原理与案例分析  [下载链接](https://pan.quark.cn/s/6e3ff4ecdb0d)    提取码：gkps
-- 大型网站系统与JAVA中间件实践  [下载链接](https://pan.quark.cn/s/6e3ff4ecdb0d)    提取码：jaxm
-- Head First Servlets and JSP  中文版  第2版  [下载链接](https://pan.quark.cn/s/6e3ff4ecdb0d)    提取码：dqby
+- 亿级流量网站架构核心技术  [下载链接](https://pan.xunlei.com/s/VNyx01zrKc2gPMV4LbeqASCoA1?pwd=8fev#)    提取码：hjsa
+- Java EE互联网轻量级框架整合开发 SSM框架（Spring MVC+Spring+MyBatis）和Redis实现  [下载链接](https://pan.xunlei.com/s/VNyx01zrKc2gPMV4LbeqASCoA1?pwd=8fev#)    提取码：ojyb
+- 架构探险 从零开始写javaweb框架  [下载链接](https://pan.xunlei.com/s/VNyx01zrKc2gPMV4LbeqASCoA1?pwd=8fev#)    提取码：cwyt
+- 大型网站技术架构：核心原理与案例分析  [下载链接](https://pan.xunlei.com/s/VNyx01zrKc2gPMV4LbeqASCoA1?pwd=8fev#)    提取码：gkps
+- 大型网站系统与JAVA中间件实践  [下载链接](https://pan.xunlei.com/s/VNyx01zrKc2gPMV4LbeqASCoA1?pwd=8fev#)    提取码：jaxm
+- Head First Servlets and JSP  中文版  第2版  [下载链接](https://pan.xunlei.com/s/VNyx01zrKc2gPMV4LbeqASCoA1?pwd=8fev#)    提取码：dqby
 
 # 并发
-- Java并发编程实战  [下载链接](https://pan.quark.cn/s/305c682d5c4e)    提取码：hqyk
-- 深入浅出 Java 多线程  [下载链接](https://pan.quark.cn/s/305c682d5c4e)    提取码：nxcr
-- Java多线程编程核心技术  [下载链接](https://pan.quark.cn/s/305c682d5c4e)    提取码：tyug
-- JAVA并发编程实践  [下载链接](https://pan.quark.cn/s/305c682d5c4e)    提取码：uldo
-- JAVA多线程设计模式  [下载链接](https://pan.quark.cn/s/305c682d5c4e)    提取码：vphc
-- 实战Java高并发程序设计  [下载链接](https://pan.quark.cn/s/305c682d5c4e)    提取码：qhxd
+- Java并发编程实战  [下载链接](https://pan.xunlei.com/s/VNyx09utCwBzRgzSAZeK1ujnA1?pwd=knrv#)    提取码：hqyk
+- 深入浅出 Java 多线程  [下载链接](https://pan.xunlei.com/s/VNyx09utCwBzRgzSAZeK1ujnA1?pwd=knrv#)    提取码：nxcr
+- Java多线程编程核心技术  [下载链接](https://pan.xunlei.com/s/VNyx09utCwBzRgzSAZeK1ujnA1?pwd=knrv#)    提取码：tyug
+- JAVA并发编程实践  [下载链接](https://pan.xunlei.com/s/VNyx09utCwBzRgzSAZeK1ujnA1?pwd=knrv#)    提取码：uldo
+- JAVA多线程设计模式  [下载链接](https://pan.xunlei.com/s/VNyx09utCwBzRgzSAZeK1ujnA1?pwd=knrv#)    提取码：vphc
+- 实战Java高并发程序设计  [下载链接](https://pan.xunlei.com/s/VNyx09utCwBzRgzSAZeK1ujnA1?pwd=knrv#)    提取码：qhxd
 
 # 框架
 
-- SPRING技术内幕  [下载链接](https://pan.quark.cn/s/fba14f838cdd)    提取码：suqt
-- Spring MVC学习指南  [下载链接](https://pan.quark.cn/s/fba14f838cdd)    提取码：yubj
-- spring揭秘  [下载链接](https://pan.quark.cn/s/fba14f838cdd)    提取码：ivkt
-- Deep into Spring Boot  [下载链接](https://pan.quark.cn/s/fba14f838cdd)    提取码：jzkg
-- 看透springMvc源代码分析与实践  [下载链接](https://pan.quark.cn/s/fba14f838cdd)    提取码：saqw
-- Hibernate实战  [下载链接](https://pan.quark.cn/s/fba14f838cdd)    提取码：vifl
-- Spring源码深度解析  [下载链接](https://pan.quark.cn/s/fba14f838cdd)    提取码：viyz
-- 深入浅出MyBatis技术原理与实战  [下载链接](https://pan.quark.cn/s/fba14f838cdd)    提取码：quao
-- MyBatis技术内幕  [下载链接](https://pan.quark.cn/s/fba14f838cdd)    提取码：reqk
-- Spring Boot实战  [下载链接](https://pan.quark.cn/s/fba14f838cdd)    提取码：buwr
-- Spring Cloud与Docker微服务架构实战  [下载链接](https://pan.quark.cn/s/fba14f838cdd)    提取码：gqxs
-- Spring in action 中文版（第4版）  [下载链接](https://pan.quark.cn/s/fba14f838cdd)    提取码：mzpa
-- Spring Cloud微服务实战  [下载链接](https://pan.quark.cn/s/fba14f838cdd)    提取码：plie
+- SPRING技术内幕  [下载链接](https://pan.xunlei.com/s/VNyx-tBx7IbTJWjuiZdA6wofA1?pwd=t5t3#)    提取码：suqt
+- Spring MVC学习指南  [下载链接](https://pan.xunlei.com/s/VNyx-tBx7IbTJWjuiZdA6wofA1?pwd=t5t3#)    提取码：yubj
+- spring揭秘  [下载链接](https://pan.xunlei.com/s/VNyx-tBx7IbTJWjuiZdA6wofA1?pwd=t5t3#)    提取码：ivkt
+- Deep into Spring Boot  [下载链接](https://pan.xunlei.com/s/VNyx-tBx7IbTJWjuiZdA6wofA1?pwd=t5t3#)    提取码：jzkg
+- 看透springMvc源代码分析与实践  [下载链接](https://pan.xunlei.com/s/VNyx-tBx7IbTJWjuiZdA6wofA1?pwd=t5t3#)    提取码：saqw
+- Hibernate实战  [下载链接](https://pan.xunlei.com/s/VNyx-tBx7IbTJWjuiZdA6wofA1?pwd=t5t3#)    提取码：vifl
+- Spring源码深度解析  [下载链接](https://pan.xunlei.com/s/VNyx-tBx7IbTJWjuiZdA6wofA1?pwd=t5t3#)    提取码：viyz
+- 深入浅出MyBatis技术原理与实战  [下载链接](https://pan.xunlei.com/s/VNyx-tBx7IbTJWjuiZdA6wofA1?pwd=t5t3#)    提取码：quao
+- MyBatis技术内幕  [下载链接](https://pan.xunlei.com/s/VNyx-tBx7IbTJWjuiZdA6wofA1?pwd=t5t3#)    提取码：reqk
+- Spring Boot实战  [下载链接](https://pan.xunlei.com/s/VNyx-tBx7IbTJWjuiZdA6wofA1?pwd=t5t3#)    提取码：buwr
+- Spring Cloud与Docker微服务架构实战  [下载链接](https://pan.xunlei.com/s/VNyx-tBx7IbTJWjuiZdA6wofA1?pwd=t5t3#)    提取码：gqxs
+- Spring in action 中文版（第4版）  [下载链接](https://pan.xunlei.com/s/VNyx-tBx7IbTJWjuiZdA6wofA1?pwd=t5t3#)    提取码：mzpa
+- Spring Cloud微服务实战  [下载链接](https://pan.xunlei.com/s/VNyx-tBx7IbTJWjuiZdA6wofA1?pwd=t5t3#)    提取码：plie
 
 # 计算机网络
 
-- 图解HTTP  [下载链接](https://pan.quark.cn/s/d1e4d1301578)    提取码：bghw
-- 图解TCP IP  [下载链接](https://pan.quark.cn/s/d1e4d1301578)    提取码：dplo
-- 计算机网络-自顶向下方法（第六版） [下载链接](https://pan.quark.cn/s/d1e4d1301578)    提取码：dbat
-- TCP IP详解卷1 原书第2版  [下载链接](https://pan.quark.cn/s/d1e4d1301578)    提取码：caxe
+- 图解HTTP  [下载链接](https://pan.xunlei.com/s/VNyx0OZBhGu_CGUmL_VMdp7sA1?pwd=pahm#)    提取码：bghw
+- 图解TCP IP  [下载链接](https://pan.xunlei.com/s/VNyx0OZBhGu_CGUmL_VMdp7sA1?pwd=pahm#)    提取码：dplo
+- 计算机网络-自顶向下方法（第六版） [下载链接](https://pan.xunlei.com/s/VNyx0OZBhGu_CGUmL_VMdp7sA1?pwd=pahm#)    提取码：dbat
+- TCP IP详解卷1 原书第2版  [下载链接](https://pan.xunlei.com/s/VNyx0OZBhGu_CGUmL_VMdp7sA1?pwd=pahm#)    提取码：caxe
 - Wireshark网络分析就这么简单 [下载链接](ttps://pan.quark.cn/s/d1e4d1301578)    提取码：dciw
-- 计算机网络（第7版）-谢希仁  [下载链接](https://pan.quark.cn/s/d1e4d1301578)    提取码：fitz
+- 计算机网络（第7版）-谢希仁  [下载链接](https://pan.xunlei.com/s/VNyx0OZBhGu_CGUmL_VMdp7sA1?pwd=pahm#)    提取码：fitz
 
 # 数据结构与算法
 
-- 数据结构与算法分析—C语言描述  [下载链接](https://pan.quark.cn/s/c49319398184)  
-- 算法图解  [下载链接](https://pan.quark.cn/s/c49319398184)   
-- 数据结构与算法分析 java语言描述（原书第3版）  [下载链接](https://pan.quark.cn/s/c49319398184)   
-- 算法之美：指导工作与生活  [下载链接](https://pan.quark.cn/s/c49319398184)    提取码：cbgk
-- 背包九讲2.0  [下载链接](https://pan.quark.cn/s/c49319398184)    提取码：soxk
-- 算法导论 第三版  [下载链接](https://pan.quark.cn/s/c49319398184)  
-- labuladong的算法小抄  [下载链接](https://pan.quark.cn/s/c49319398184)    提取码：kbci
-- LeetCode刷题手册-阿里霜神  [下载链接](https://pan.quark.cn/s/c49319398184) 
-- 谷歌大佬LeetCode刷题笔记  [下载链接](https://pan.quark.cn/s/c49319398184)  
-- 编程珠玑  [下载链接](https://pan.quark.cn/s/c49319398184)  
-- 剑指Offer  [下载链接](https://pan.quark.cn/s/c49319398184) 
-- 数据结构(C语言版)  [下载链接](https://pan.quark.cn/s/c49319398184)    提取码：ksyw
+- 数据结构与算法分析—C语言描述  [下载链接](https://pan.xunlei.com/s/VNyx0E42Kc2gPMV4LbeqAU_HA1?pwd=2cjh#)  
+- 算法图解  [下载链接](https://pan.xunlei.com/s/VNyx0E42Kc2gPMV4LbeqAU_HA1?pwd=2cjh#)   
+- 数据结构与算法分析 java语言描述（原书第3版）  [下载链接](https://pan.xunlei.com/s/VNyx0E42Kc2gPMV4LbeqAU_HA1?pwd=2cjh#)   
+- 算法之美：指导工作与生活  [下载链接](https://pan.xunlei.com/s/VNyx0E42Kc2gPMV4LbeqAU_HA1?pwd=2cjh#)    提取码：cbgk
+- 背包九讲2.0  [下载链接](https://pan.xunlei.com/s/VNyx0E42Kc2gPMV4LbeqAU_HA1?pwd=2cjh#)    提取码：soxk
+- 算法导论 第三版  [下载链接](https://pan.xunlei.com/s/VNyx0E42Kc2gPMV4LbeqAU_HA1?pwd=2cjh#)  
+- labuladong的算法小抄  [下载链接](https://pan.xunlei.com/s/VNyx0E42Kc2gPMV4LbeqAU_HA1?pwd=2cjh#)    提取码：kbci
+- LeetCode刷题手册-阿里霜神  [下载链接](https://pan.xunlei.com/s/VNyx0E42Kc2gPMV4LbeqAU_HA1?pwd=2cjh#) 
+- 谷歌大佬LeetCode刷题笔记  [下载链接](https://pan.xunlei.com/s/VNyx0E42Kc2gPMV4LbeqAU_HA1?pwd=2cjh#)  
+- 编程珠玑  [下载链接](https://pan.xunlei.com/s/VNyx0E42Kc2gPMV4LbeqAU_HA1?pwd=2cjh#)  
+- 剑指Offer  [下载链接](https://pan.xunlei.com/s/VNyx0E42Kc2gPMV4LbeqAU_HA1?pwd=2cjh#) 
+- 数据结构(C语言版)  [下载链接](https://pan.xunlei.com/s/VNyx0E42Kc2gPMV4LbeqAU_HA1?pwd=2cjh#)    提取码：ksyw
 
 # 操作系统
 
-- 深入理解计算机系统.pdf  [下载链接](https://pan.quark.cn/s/c7e6b6a8ad5c)    提取码：wlrf
-- 30天自制操作系统 (图灵程序设计丛书)-2-753  [下载链接](https://pan.quark.cn/s/c7e6b6a8ad5c)    提取码：dutc
-- 现代操作系统（第三版）中文版  [下载链接](https://pan.quark.cn/s/c7e6b6a8ad5c)    提取码：gkps
-- 操作系统精髓与设计原理(原书第6版)  [下载链接](https://pan.quark.cn/s/c7e6b6a8ad5c)    提取码：fbzt
-- 操作系统概念  [下载链接](https://pan.quark.cn/s/c7e6b6a8ad5c)    提取码：iqvo
-- 深入理解计算机系统  [下载链接](https://pan.quark.cn/s/c7e6b6a8ad5c)    提取码：caoi
-- 操作系统设计与实现  [下载链接](https://pan.quark.cn/s/c7e6b6a8ad5c)    提取码：kbte
+- 深入理解计算机系统.pdf  [下载链接](https://pan.xunlei.com/s/VNyx0BFmpIv6z4n-EuqD1Vb3A1?pwd=ubvt#)    提取码：wlrf
+- 30天自制操作系统 (图灵程序设计丛书)-2-753  [下载链接](https://pan.xunlei.com/s/VNyx0BFmpIv6z4n-EuqD1Vb3A1?pwd=ubvt#)    提取码：dutc
+- 现代操作系统（第三版）中文版  [下载链接](https://pan.xunlei.com/s/VNyx0BFmpIv6z4n-EuqD1Vb3A1?pwd=ubvt#)    提取码：gkps
+- 操作系统精髓与设计原理(原书第6版)  [下载链接](https://pan.xunlei.com/s/VNyx0BFmpIv6z4n-EuqD1Vb3A1?pwd=ubvt#)    提取码：fbzt
+- 操作系统概念  [下载链接](https://pan.xunlei.com/s/VNyx0BFmpIv6z4n-EuqD1Vb3A1?pwd=ubvt#)    提取码：iqvo
+- 深入理解计算机系统  [下载链接](https://pan.xunlei.com/s/VNyx0BFmpIv6z4n-EuqD1Vb3A1?pwd=ubvt#)    提取码：caoi
+- 操作系统设计与实现  [下载链接](https://pan.xunlei.com/s/VNyx0BFmpIv6z4n-EuqD1Vb3A1?pwd=ubvt#)    提取码：kbte
 
 # Linux
 
-- Linux学习笔记  [下载链接](https://pan.quark.cn/s/dd92784b75fe)    提取码：fzmc
-- UNIX环境高级编程 第二版中文  [下载链接](https://pan.quark.cn/s/dd92784b75fe)    提取码：mdao
-- 鸟哥的Linux私房菜 服务器篇(第三版)  [下载链接](https://pan.quark.cn/s/dd92784b75fe)    提取码：rmjn
-- Linux Shell脚本攻略（第2版）  [下载链接](https://pan.quark.cn/s/dd92784b75fe)    提取码：thaj
-- UNIX网络编程 卷2 进程间通信  [下载链接](https://pan.quark.cn/s/dd92784b75fe)    提取码：kcae
-- UNIX网络编程 卷1 套接字联网API  [下载链接](https://pan.quark.cn/s/dd92784b75fe)    提取码：jbwc
-- 鸟哥的Linux私房菜 基础学习篇(第三版)-清晰版  [下载链接](https://pan.quark.cn/s/dd92784b75fe)    提取码：mawv
+- Linux学习笔记  [下载链接](https://pan.xunlei.com/s/VNyx-w1tdIGmO4pDhbYHfzbWA1?pwd=5v8p#)    提取码：fzmc
+- UNIX环境高级编程 第二版中文  [下载链接](https://pan.xunlei.com/s/VNyx-w1tdIGmO4pDhbYHfzbWA1?pwd=5v8p#)    提取码：mdao
+- 鸟哥的Linux私房菜 服务器篇(第三版)  [下载链接](https://pan.xunlei.com/s/VNyx-w1tdIGmO4pDhbYHfzbWA1?pwd=5v8p#)    提取码：rmjn
+- Linux Shell脚本攻略（第2版）  [下载链接](https://pan.xunlei.com/s/VNyx-w1tdIGmO4pDhbYHfzbWA1?pwd=5v8p#)    提取码：thaj
+- UNIX网络编程 卷2 进程间通信  [下载链接](https://pan.xunlei.com/s/VNyx-w1tdIGmO4pDhbYHfzbWA1?pwd=5v8p#)    提取码：kcae
+- UNIX网络编程 卷1 套接字联网API  [下载链接](https://pan.xunlei.com/s/VNyx-w1tdIGmO4pDhbYHfzbWA1?pwd=5v8p#)    提取码：jbwc
+- 鸟哥的Linux私房菜 基础学习篇(第三版)-清晰版  [下载链接](https://pan.xunlei.com/s/VNyx-w1tdIGmO4pDhbYHfzbWA1?pwd=5v8p#)    提取码：mawv
 
 # c
-- C程序设计语言(英文第2版)Prentice Hall.-.The C Programming Language(2nd Edition)  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：kuec
-- C程序设计语言（第2版）中文译版  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：apnu
-- C和指针  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：pakl
-- C语言深度解剖  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：qzgu
-- C语言函数大全  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：dxfw
-- Microsoft编写优质无错C程序秘诀  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：ftba
-- C语言参考手册第五版  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：urnh
-- C专家编程  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：geta
-- C程序设计(第四版).谭浩强  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：knox
-- C标准库中文版  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：pqxe
-- C Primer Plus（第五版）   [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：haxs
+- C程序设计语言(英文第2版)Prentice Hall.-.The C Programming Language(2nd Edition)  [下载链接](https://pan.xunlei.com/s/VNyx-p7yumCPWxnsuTAdgfoZA1?pwd=n792#)    提取码：kuec
+- C程序设计语言（第2版）中文译版  [下载链接](https://pan.xunlei.com/s/VNyx-p7yumCPWxnsuTAdgfoZA1?pwd=n792#)    提取码：apnu
+- C和指针  [下载链接](https://pan.xunlei.com/s/VNyx-p7yumCPWxnsuTAdgfoZA1?pwd=n792#)    提取码：pakl
+- C语言深度解剖  [下载链接](https://pan.xunlei.com/s/VNyx-p7yumCPWxnsuTAdgfoZA1?pwd=n792#)    提取码：qzgu
+- C语言函数大全  [下载链接](https://pan.xunlei.com/s/VNyx-p7yumCPWxnsuTAdgfoZA1?pwd=n792#)    提取码：dxfw
+- Microsoft编写优质无错C程序秘诀  [下载链接](https://pan.xunlei.com/s/VNyx-p7yumCPWxnsuTAdgfoZA1?pwd=n792#)    提取码：ftba
+- C语言参考手册第五版  [下载链接](https://pan.xunlei.com/s/VNyx-p7yumCPWxnsuTAdgfoZA1?pwd=n792#)    提取码：urnh
+- C专家编程  [下载链接](https://pan.xunlei.com/s/VNyx-p7yumCPWxnsuTAdgfoZA1?pwd=n792#)    提取码：geta
+- C程序设计(第四版).谭浩强  [下载链接](https://pan.xunlei.com/s/VNyx-p7yumCPWxnsuTAdgfoZA1?pwd=n792#)    提取码：knox
+- C标准库中文版  [下载链接](https://pan.xunlei.com/s/VNyx-p7yumCPWxnsuTAdgfoZA1?pwd=n792#)    提取码：pqxe
+- C Primer Plus（第五版）   [下载链接](https://pan.xunlei.com/s/VNyx-p7yumCPWxnsuTAdgfoZA1?pwd=n792#)    提取码：haxs
 
 # c#
-- 深入理解C#  [下载链接](https://pan.quark.cn/s/b689ad71a2f4)    提取码：lvbr
-- c#图解教程 第4版（Illustrated C# 2012）  [下载链接](https://pan.quark.cn/s/b689ad71a2f4)    提取码：eklv
+- 深入理解C#  [下载链接](https://pan.xunlei.com/s/VNyx-jqOeo3wuB2IQizxH4vCA1?pwd=6tb6#)    提取码：lvbr
+- c#图解教程 第4版（Illustrated C# 2012）  [下载链接](https://pan.xunlei.com/s/VNyx-jqOeo3wuB2IQizxH4vCA1?pwd=6tb6#)    提取码：eklv
 # c++
-- More Effective C++中文版  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：njug
-- 深入探索C++对象模型  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：eslv
-- 深度探索C++对象模型  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：brpa
-- STL源码剖析  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：otdz
-- STL源码剖析简体中文完整版  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：lhno
-- 深入理解C++11：C++11新特性解析与应用  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：rdlx
-- 学习OpenCV（中文版）  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：voru
-- OpenCV3编程入门 毛星云编著 电子工业出版  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：yvtq
-- C++ Template 全览, 中文版  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：pgim
-- Qt Creator快速入门  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：aesf
-- C++  Primer中文版  第6版  [下载链接](https://pan.quark.cn/s/e7302de437c0)  提取码：iud2 
-- C++并发编程  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：czlf
-- C++编程规范-101条规则准则与最佳实践  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：oyvz
-- C++primer 5th  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：tvaq
-- google C++ 编码规范 [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：pmec
-- Effective STL 中文版  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：gban
-- Effective C++ 改善程序与设计的55个具体做法 中文第三版  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：oxke
-- C++沉思录  [下载链接](https://pan.quark.cn/s/e7302de437c0)    提取码：ojgn
+- More Effective C++中文版  [下载链接](https://pan.xunlei.com/s/VNyx-mGHyOTcRnATKEaGBuUhA1?pwd=ak7r#)    提取码：njug
+- 深入探索C++对象模型  [下载链接](https://pan.xunlei.com/s/VNyx-mGHyOTcRnATKEaGBuUhA1?pwd=ak7r#)    提取码：eslv
+- 深度探索C++对象模型  [下载链接](https://pan.xunlei.com/s/VNyx-mGHyOTcRnATKEaGBuUhA1?pwd=ak7r#)    提取码：brpa
+- STL源码剖析  [下载链接](https://pan.xunlei.com/s/VNyx-mGHyOTcRnATKEaGBuUhA1?pwd=ak7r#)    提取码：otdz
+- STL源码剖析简体中文完整版  [下载链接](https://pan.xunlei.com/s/VNyx-mGHyOTcRnATKEaGBuUhA1?pwd=ak7r#)    提取码：lhno
+- 深入理解C++11：C++11新特性解析与应用  [下载链接](https://pan.xunlei.com/s/VNyx-mGHyOTcRnATKEaGBuUhA1?pwd=ak7r#)    提取码：rdlx
+- 学习OpenCV（中文版）  [下载链接](https://pan.xunlei.com/s/VNyx-mGHyOTcRnATKEaGBuUhA1?pwd=ak7r#)    提取码：voru
+- OpenCV3编程入门 毛星云编著 电子工业出版  [下载链接](https://pan.xunlei.com/s/VNyx-mGHyOTcRnATKEaGBuUhA1?pwd=ak7r#)    提取码：yvtq
+- C++ Template 全览, 中文版  [下载链接](https://pan.xunlei.com/s/VNyx-mGHyOTcRnATKEaGBuUhA1?pwd=ak7r#)    提取码：pgim
+- Qt Creator快速入门  [下载链接](https://pan.xunlei.com/s/VNyx-mGHyOTcRnATKEaGBuUhA1?pwd=ak7r#)    提取码：aesf
+- C++  Primer中文版  第6版  [下载链接](https://pan.xunlei.com/s/VNyx-mGHyOTcRnATKEaGBuUhA1?pwd=ak7r#)  提取码：iud2 
+- C++并发编程  [下载链接](https://pan.xunlei.com/s/VNyx-mGHyOTcRnATKEaGBuUhA1?pwd=ak7r#)    提取码：czlf
+- C++编程规范-101条规则准则与最佳实践  [下载链接](https://pan.xunlei.com/s/VNyx-mGHyOTcRnATKEaGBuUhA1?pwd=ak7r#)    提取码：oyvz
+- C++primer 5th  [下载链接](https://pan.xunlei.com/s/VNyx-mGHyOTcRnATKEaGBuUhA1?pwd=ak7r#)    提取码：tvaq
+- google C++ 编码规范 [下载链接](https://pan.xunlei.com/s/VNyx-mGHyOTcRnATKEaGBuUhA1?pwd=ak7r#)    提取码：pmec
+- Effective STL 中文版  [下载链接](https://pan.xunlei.com/s/VNyx-mGHyOTcRnATKEaGBuUhA1?pwd=ak7r#)    提取码：gban
+- Effective C++ 改善程序与设计的55个具体做法 中文第三版  [下载链接](https://pan.xunlei.com/s/VNyx-mGHyOTcRnATKEaGBuUhA1?pwd=ak7r#)    提取码：oxke
+- C++沉思录  [下载链接](https://pan.xunlei.com/s/VNyx-mGHyOTcRnATKEaGBuUhA1?pwd=ak7r#)    提取码：ojgn
 
 # Go
-- 学习 Go 语言  [下载链接](https://pan.quark.cn/s/470055353762)    提取码：zadr
-- Go web 编程  [下载链接](https://pan.quark.cn/s/470055353762)    提取码：znwa
-- Go语言实战  [下载链接](https://pan.quark.cn/s/470055353762)    提取码：uate
-- Go并发编程实战  [下载链接](https://pan.quark.cn/s/470055353762)    提取码：fmst
+- 学习 Go 语言  [下载链接](https://pan.xunlei.com/s/VNyx-rJZfJdOu3HWb1GOw9tOA1?pwd=zb4g#)    提取码：zadr
+- Go web 编程  [下载链接](https://pan.xunlei.com/s/VNyx-rJZfJdOu3HWb1GOw9tOA1?pwd=zb4g#)    提取码：znwa
+- Go语言实战  [下载链接](https://pan.xunlei.com/s/VNyx-rJZfJdOu3HWb1GOw9tOA1?pwd=zb4g#)    提取码：uate
+- Go并发编程实战  [下载链接](https://pan.xunlei.com/s/VNyx-rJZfJdOu3HWb1GOw9tOA1?pwd=zb4g#)    提取码：fmst
 
 # Python
 
-- Python高级编程第2版 张亮 阿信（译） 人民邮电出版社 2017-10 v2 完整版  [下载链接](https://pan.quark.cn/s/d9400e5ebb4d)    提取码：xjfi
-- Python开发技术详解  [下载链接](https://pan.quark.cn/s/d9400e5ebb4d)    提取码：dywg
-- 编程小白的第一本python入门书  [下载链接](https://pan.quark.cn/s/d9400e5ebb4d)    提取码：dsmi
-- Python开发实战  [下载链接](https://pan.quark.cn/s/d9400e5ebb4d)    提取码：hxjw
-- Python学习手册-第4版  [下载链接](https://pan.quark.cn/s/d9400e5ebb4d)    提取码：miey
-- Python编程入门经典  [下载链接](https://pan.quark.cn/s/d9400e5ebb4d)    提取码：vyfs
+- Python高级编程第2版 张亮 阿信（译） 人民邮电出版社 2017-10 v2 完整版  [下载链接](https://pan.xunlei.com/s/VNyx-z81CwBzRgzSAZeK1qLpA1?pwd=kwfp#)    提取码：xjfi
+- Python开发技术详解  [下载链接](https://pan.xunlei.com/s/VNyx-z81CwBzRgzSAZeK1qLpA1?pwd=kwfp#)    提取码：dywg
+- 编程小白的第一本python入门书  [下载链接](https://pan.xunlei.com/s/VNyx-z81CwBzRgzSAZeK1qLpA1?pwd=kwfp#)    提取码：dsmi
+- Python开发实战  [下载链接](https://pan.xunlei.com/s/VNyx-z81CwBzRgzSAZeK1qLpA1?pwd=kwfp#)    提取码：hxjw
+- Python学习手册-第4版  [下载链接](https://pan.xunlei.com/s/VNyx-z81CwBzRgzSAZeK1qLpA1?pwd=kwfp#)    提取码：miey
+- Python编程入门经典  [下载链接](https://pan.xunlei.com/s/VNyx-z81CwBzRgzSAZeK1qLpA1?pwd=kwfp#)    提取码：vyfs
 
 # Android
 
-- Android 第一行代码（第2版）[下载链接](https://pan.quark.cn/s/d0a643b2f693)    提取码：vyfs
+- Android 第一行代码（第2版）[下载链接](https://pan.xunlei.com/s/VNyx-g9A7IbTJWjuiZdA6tuuA1?pwd=f5jn#)    提取码：vyfs
 
 # 编程之术
-- 统计推断 statistical inference（英文版）  [下载链接](https://pan.quark.cn/s/534fa44be324)    提取码：azmx
-- 重构：改善既有代码的设计（第2版）  [下载链接](https://pan.quark.cn/s/534fa44be324)    提取码：tvyp
-- 编写可读代码的艺术  [下载链接](https://pan.quark.cn/s/534fa44be324)    提取码：yqxu
-- 编程的奥秘  [下载链接](https://pan.quark.cn/s/534fa44be324)    提取码：iycm
-- 敏捷软件开发：原则、模式与实践  [下载链接](https://pan.quark.cn/s/534fa44be324)    提取码：xsub
-- 代码大全2中文版  [下载链接](https://pan.quark.cn/s/534fa44be324)    提取码：mwid
-- 代码之美精选版  [下载链接](https://pan.quark.cn/s/534fa44be324)    提取码：qecg
-- 代码整洁之道  [下载链接](https://pan.quark.cn/s/534fa44be324)    提取码：qbeu
-- 程序员的自我修养—链接、装载与库  [下载链接](https://pan.quark.cn/s/534fa44be324)    提取码：xefk
-- 编程之美  [下载链接](https://pan.quark.cn/s/534fa44be324)    提取码：fxsd
-- 程序视角下的可计算和复杂性理论 Computability and Complexity（英文版）  [下载链接](https://pan.quark.cn/s/534fa44be324)    提取码：xadr
-- 编码：隐匿在计算机软硬件背后的语言  [下载链接](https://pan.quark.cn/s/534fa44be324)    提取码：jprb
+- 统计推断 statistical inference（英文版）  [下载链接](https://pan.xunlei.com/s/VNyx0Lg7V0_iHL6nx_xVyooKA1?pwd=dsbt#)    提取码：azmx
+- 重构：改善既有代码的设计（第2版）  [下载链接](https://pan.xunlei.com/s/VNyx0Lg7V0_iHL6nx_xVyooKA1?pwd=dsbt#)    提取码：tvyp
+- 编写可读代码的艺术  [下载链接](https://pan.xunlei.com/s/VNyx0Lg7V0_iHL6nx_xVyooKA1?pwd=dsbt#)    提取码：yqxu
+- 编程的奥秘  [下载链接](https://pan.xunlei.com/s/VNyx0Lg7V0_iHL6nx_xVyooKA1?pwd=dsbt#)    提取码：iycm
+- 敏捷软件开发：原则、模式与实践  [下载链接](https://pan.xunlei.com/s/VNyx0Lg7V0_iHL6nx_xVyooKA1?pwd=dsbt#)    提取码：xsub
+- 代码大全2中文版  [下载链接](https://pan.xunlei.com/s/VNyx0Lg7V0_iHL6nx_xVyooKA1?pwd=dsbt#)    提取码：mwid
+- 代码之美精选版  [下载链接](https://pan.xunlei.com/s/VNyx0Lg7V0_iHL6nx_xVyooKA1?pwd=dsbt#)    提取码：qecg
+- 代码整洁之道  [下载链接](https://pan.xunlei.com/s/VNyx0Lg7V0_iHL6nx_xVyooKA1?pwd=dsbt#)    提取码：qbeu
+- 程序员的自我修养—链接、装载与库  [下载链接](https://pan.xunlei.com/s/VNyx0Lg7V0_iHL6nx_xVyooKA1?pwd=dsbt#)    提取码：xefk
+- 编程之美  [下载链接](https://pan.xunlei.com/s/VNyx0Lg7V0_iHL6nx_xVyooKA1?pwd=dsbt#)    提取码：fxsd
+- 程序视角下的可计算和复杂性理论 Computability and Complexity（英文版）  [下载链接](https://pan.xunlei.com/s/VNyx0Lg7V0_iHL6nx_xVyooKA1?pwd=dsbt#)    提取码：xadr
+- 编码：隐匿在计算机软硬件背后的语言  [下载链接](https://pan.xunlei.com/s/VNyx0Lg7V0_iHL6nx_xVyooKA1?pwd=dsbt#)    提取码：jprb
 
 # 大数据
-- Hadoop权威指南 第3版 修订版  [下载链接](https://pan.quark.cn/s/978e95e6e5fa)    提取码：dfyu
-- Spark快速数据处理完整版  [下载链接](https://pan.quark.cn/s/978e95e6e5fa)    提取码：iawf
+- Hadoop权威指南 第3版 修订版  [下载链接](https://pan.xunlei.com/s/VNyx08XQhGu_CGUmL_VMdlWrA1?pwd=z69h#)    提取码：dfyu
+- Spark快速数据处理完整版  [下载链接](https://pan.xunlei.com/s/VNyx08XQhGu_CGUmL_VMdlWrA1?pwd=z69h#)    提取码：iawf
 # 分布式
-- 架构探险：从零开始写分布式服务架构  [下载链接](https://pan.quark.cn/s/a649578907d4)    提取码：cvwu
-- 深入分布式缓存 从原理到实践  [下载链接](https://pan.quark.cn/s/a649578907d4)    提取码：uwim
+- 架构探险：从零开始写分布式服务架构  [下载链接](https://pan.xunlei.com/s/VNyx053kylgr7Ay06fR434KbA1?pwd=zbe4#)    提取码：cvwu
+- 深入分布式缓存 从原理到实践  [下载链接](https://pan.xunlei.com/s/VNyx053kylgr7Ay06fR434KbA1?pwd=zbe4#)    提取码：uwim
 # 工具
-- Maven3实战  [下载链接](https://pan.quark.cn/s/08d37bee05d9)    提取码：xilj
-- IntelliJ IDEA 简体中文专题教程（电子版-2015）  [下载链接](https://pan.quark.cn/s/08d37bee05d9)    提取码：vfqm
-- Maven实战  [下载链接](https://pan.quark.cn/s/08d37bee05d9)    提取码：bwid
-- Vim 中文用户手册  [下载链接](https://pan.quark.cn/s/08d37bee05d9)    提取码：ewvj
-- progit  [下载链接](https://pan.quark.cn/s/08d37bee05d9)    提取码：mvap
+- Maven3实战  [下载链接](https://pan.xunlei.com/s/VNyx0NFBCwBzRgzSAZeK1ylgA1?pwd=sukr#)    提取码：xilj
+- IntelliJ IDEA 简体中文专题教程（电子版-2015）  [下载链接](https://pan.xunlei.com/s/VNyx0NFBCwBzRgzSAZeK1ylgA1?pwd=sukr#)    提取码：vfqm
+- Maven实战  [下载链接](https://pan.xunlei.com/s/VNyx0NFBCwBzRgzSAZeK1ylgA1?pwd=sukr#)    提取码：bwid
+- Vim 中文用户手册  [下载链接](https://pan.xunlei.com/s/VNyx0NFBCwBzRgzSAZeK1ylgA1?pwd=sukr#)    提取码：ewvj
+- progit  [下载链接](https://pan.xunlei.com/s/VNyx0NFBCwBzRgzSAZeK1ylgA1?pwd=sukr#)    提取码：mvap
 
 # 机器学习
-- 机器学习实战  [下载链接](https://pan.quark.cn/s/52d515244211)    提取码：kwqs
-- 深度学习 中文版  [下载链接](https://pan.quark.cn/s/52d515244211)    提取码：oasp
-- 贝叶斯思维统计建模的PYTHON学习法  [下载链接](https://pan.quark.cn/s/52d515244211)    提取码：vyzg
-- 图解机器学习  [下载链接](https://pan.quark.cn/s/52d515244211)    提取码：fqcz
-- PYTHON机器学习及实践－从零开始通往KAGGLE竞赛之路  [下载链接](https://pan.quark.cn/s/52d515244211)    提取码：zqhd
-- TensorFlow实践与智能系统  [下载链接](https://pan.quark.cn/s/52d515244211)    提取码：qbli
-- TensorFlow技术解析与实战  [下载链接](https://pan.quark.cn/s/52d515244211)    提取码：gozc
-- Tensorflow 实战Google深度学习框架  [下载链接](https://pan.quark.cn/s/52d515244211)    提取码：ecoz
+- 机器学习实战  [下载链接](https://pan.xunlei.com/s/VNyx0H4-pIv6z4n-EuqD1ZezA1?pwd=g748#)    提取码：kwqs
+- 深度学习 中文版  [下载链接](https://pan.xunlei.com/s/VNyx0H4-pIv6z4n-EuqD1ZezA1?pwd=g748#)    提取码：oasp
+- 贝叶斯思维统计建模的PYTHON学习法  [下载链接](https://pan.xunlei.com/s/VNyx0H4-pIv6z4n-EuqD1ZezA1?pwd=g748#)    提取码：vyzg
+- 图解机器学习  [下载链接](https://pan.xunlei.com/s/VNyx0H4-pIv6z4n-EuqD1ZezA1?pwd=g748#)    提取码：fqcz
+- PYTHON机器学习及实践－从零开始通往KAGGLE竞赛之路  [下载链接](https://pan.xunlei.com/s/VNyx0H4-pIv6z4n-EuqD1ZezA1?pwd=g748#)    提取码：zqhd
+- TensorFlow实践与智能系统  [下载链接](https://pan.xunlei.com/s/VNyx0H4-pIv6z4n-EuqD1ZezA1?pwd=g748#)    提取码：qbli
+- TensorFlow技术解析与实战  [下载链接](https://pan.xunlei.com/s/VNyx0H4-pIv6z4n-EuqD1ZezA1?pwd=g748#)    提取码：gozc
+- Tensorflow 实战Google深度学习框架  [下载链接](https://pan.xunlei.com/s/VNyx0H4-pIv6z4n-EuqD1ZezA1?pwd=g748#)    提取码：ecoz
 
 # 面试
-- SpringCloud面试专题  [下载链接](https://pan.quark.cn/s/ff174b8884e0)    提取码：jrgi
-- Tomcat优化相关问题  [下载链接](https://pan.quark.cn/s/ff174b8884e0)    提取码：cekn
-- 面试必备之乐观锁与悲观锁  [下载链接](https://pan.quark.cn/s/ff174b8884e0)    提取码：mfqw
-- 一线互联网企业面试题  [下载链接](https://pan.quark.cn/s/ff174b8884e0)    提取码：lcrs
-- 字节跳动21届秋招全岗位面经集合  [下载链接](https://pan.quark.cn/s/ff174b8884e0)    提取码：fydb
-- Dubbo面试专题  [下载链接](https://pan.quark.cn/s/ff174b8884e0)    提取码：ywpn
-- 【笔记】concurrentHashMap  [下载链接](https://pan.quark.cn/s/ff174b8884e0)    提取码：yxlf
-- JVM性能优化相关问题  [下载链接](https://pan.quark.cn/s/ff174b8884e0)    提取码：vuie
-- SpringBoot面试专题  [下载链接](https://pan.quark.cn/s/ff174b8884e0)    提取码：macu
-- redis面试专题  [下载链接](https://pan.quark.cn/s/ff174b8884e0)    提取码：famx
-- 程序员面试宝典-第三版)-  [下载链接](https://pan.quark.cn/s/ff174b8884e0)    提取码：kbqa
-- JAVA核心面试知识整理  [下载链接](https://pan.quark.cn/s/ff174b8884e0)    提取码：neqb
+- SpringCloud面试专题  [下载链接](https://pan.xunlei.com/s/VNyx0REQumCPWxnsuTAdhK1aA1?pwd=uhvg#)    提取码：jrgi
+- Tomcat优化相关问题  [下载链接](https://pan.xunlei.com/s/VNyx0REQumCPWxnsuTAdhK1aA1?pwd=uhvg#)    提取码：cekn
+- 面试必备之乐观锁与悲观锁  [下载链接](https://pan.xunlei.com/s/VNyx0REQumCPWxnsuTAdhK1aA1?pwd=uhvg#)    提取码：mfqw
+- 一线互联网企业面试题  [下载链接](https://pan.xunlei.com/s/VNyx0REQumCPWxnsuTAdhK1aA1?pwd=uhvg#)    提取码：lcrs
+- 字节跳动21届秋招全岗位面经集合  [下载链接](https://pan.xunlei.com/s/VNyx0REQumCPWxnsuTAdhK1aA1?pwd=uhvg#)    提取码：fydb
+- Dubbo面试专题  [下载链接](https://pan.xunlei.com/s/VNyx0REQumCPWxnsuTAdhK1aA1?pwd=uhvg#)    提取码：ywpn
+- 【笔记】concurrentHashMap  [下载链接](https://pan.xunlei.com/s/VNyx0REQumCPWxnsuTAdhK1aA1?pwd=uhvg#)    提取码：yxlf
+- JVM性能优化相关问题  [下载链接](https://pan.xunlei.com/s/VNyx0REQumCPWxnsuTAdhK1aA1?pwd=uhvg#)    提取码：vuie
+- SpringBoot面试专题  [下载链接](https://pan.xunlei.com/s/VNyx0REQumCPWxnsuTAdhK1aA1?pwd=uhvg#)    提取码：macu
+- redis面试专题  [下载链接](https://pan.xunlei.com/s/VNyx0REQumCPWxnsuTAdhK1aA1?pwd=uhvg#)    提取码：famx
+- 程序员面试宝典-第三版)-  [下载链接](https://pan.xunlei.com/s/VNyx0REQumCPWxnsuTAdhK1aA1?pwd=uhvg#)    提取码：kbqa
+- JAVA核心面试知识整理  [下载链接](https://pan.xunlei.com/s/VNyx0REQumCPWxnsuTAdhK1aA1?pwd=uhvg#)    提取码：neqb
 # 前端
-- HTML与CSS入门经典(https://pan.quark.cn/s/218780eb61fc).（美）奥利弗，（美）莫里森.扫描版  [下载链接](https://pan.quark.cn/s/a4f8974f82be)    提取码：gjcz
-- JavaScript.DOM编程艺术（第2版）  [下载链接](https://pan.quark.cn/s/a4f8974f82be)    提取码：lcbz
-- JavaScript高级程序设计（第3版）  [下载链接](https://pan.quark.cn/s/a4f8974f82be)    提取码：cmyx
-- jQuery高级编程，中文完整扫描版 [下载链接](https://pan.quark.cn/s/a4f8974f82be)    提取码：ckwh
-- jQuery权威指南  [下载链接](https://pan.quark.cn/s/a4f8974f82be)    提取码：mltc
-- Node.js开发指南  [下载链接](https://pan.quark.cn/s/a4f8974f82be)    提取码：mqsc
-- jQuery技术内幕 深入解析jQuery架构设计与实现原理  [下载链接](https://pan.quark.cn/s/a4f8974f82be)    提取码：qklc
-- 疯狂ajax讲义  [下载链接](https://pan.quark.cn/s/a4f8974f82be)    提取码：ztdq
-- Bootstrap实战  [下载链接](https://pan.quark.cn/s/a4f8974f82be)    提取码：fxpe
-- HTML5揭秘  [下载链接](https://pan.quark.cn/s/a4f8974f82be)    提取码：ksnr
-- HTML5与CSS3基础教程（第8版）  [下载链接](https://pan.quark.cn/s/a4f8974f82be)    提取码：ldfh
-- Head First HTML与CSS 第2版  [下载链接](https://pan.quark.cn/s/a4f8974f82be)    提取码：ldcn
+- HTML与CSS入门经典(美）奥利弗，（美）莫里森.扫描版  [下载链接](https://pan.xunlei.com/s/VNyx06nM7bKVoLo6nKqsZuEXA1?pwd=qvee#)    提取码：gjcz
+- JavaScript.DOM编程艺术（第2版）  [下载链接](https://pan.xunlei.com/s/VNyx06nM7bKVoLo6nKqsZuEXA1?pwd=qvee#)    提取码：lcbz
+- JavaScript高级程序设计（第3版）  [下载链接](https://pan.xunlei.com/s/VNyx06nM7bKVoLo6nKqsZuEXA1?pwd=qvee#)    提取码：cmyx
+- jQuery高级编程，中文完整扫描版 [下载链接](https://pan.xunlei.com/s/VNyx06nM7bKVoLo6nKqsZuEXA1?pwd=qvee#)    提取码：ckwh
+- jQuery权威指南  [下载链接](https://pan.xunlei.com/s/VNyx06nM7bKVoLo6nKqsZuEXA1?pwd=qvee#)    提取码：mltc
+- Node.js开发指南  [下载链接](https://pan.xunlei.com/s/VNyx06nM7bKVoLo6nKqsZuEXA1?pwd=qvee#)    提取码：mqsc
+- jQuery技术内幕 深入解析jQuery架构设计与实现原理  [下载链接](https://pan.xunlei.com/s/VNyx06nM7bKVoLo6nKqsZuEXA1?pwd=qvee#)    提取码：qklc
+- 疯狂ajax讲义  [下载链接](https://pan.xunlei.com/s/VNyx06nM7bKVoLo6nKqsZuEXA1?pwd=qvee#)    提取码：ztdq
+- Bootstrap实战  [下载链接](https://pan.xunlei.com/s/VNyx06nM7bKVoLo6nKqsZuEXA1?pwd=qvee#)    提取码：fxpe
+- HTML5揭秘  [下载链接](https://pan.xunlei.com/s/VNyx06nM7bKVoLo6nKqsZuEXA1?pwd=qvee#)    提取码：ksnr
+- HTML5与CSS3基础教程（第8版）  [下载链接](https://pan.xunlei.com/s/VNyx06nM7bKVoLo6nKqsZuEXA1?pwd=qvee#)    提取码：ldfh
+- Head First HTML与CSS 第2版  [下载链接](https://pan.xunlei.com/s/VNyx06nM7bKVoLo6nKqsZuEXA1?pwd=qvee#)    提取码：ldcn
 
 # 设计模式
-- 大话设计模式  [下载链接](https://pan.quark.cn/s/4b47daa2dd0b)    提取码：uhln
-- 设计模式之禅（第2版）  [下载链接](https://pan.quark.cn/s/4b47daa2dd0b)    提取码：jhnt
-- HeadFirst设计模式  [下载链接](https://pan.quark.cn/s/4b47daa2dd0b)    提取码：fcsu
-- 设计模式 可复用面向对象软件的基础  [下载链接](https://pan.quark.cn/s/4b47daa2dd0b)    提取码：efny
-- 图解设计模式  [下载链接](https://pan.quark.cn/s/4b47daa2dd0b)    提取码：yhuv
-- 重学Java设计模式·小傅哥  [下载链接](https://pan.quark.cn/s/4b47daa2dd0b)    提取码：rsmk
+- 大话设计模式  [下载链接](https://pan.xunlei.com/s/VNyx0PtWuyr8O3h3TEhJbuzKA1?pwd=qws4#)    提取码：uhln
+- 设计模式之禅（第2版）  [下载链接](https://pan.xunlei.com/s/VNyx0PtWuyr8O3h3TEhJbuzKA1?pwd=qws4#)    提取码：jhnt
+- HeadFirst设计模式  [下载链接](https://pan.xunlei.com/s/VNyx0PtWuyr8O3h3TEhJbuzKA1?pwd=qws4#)    提取码：fcsu
+- 设计模式 可复用面向对象软件的基础  [下载链接](https://pan.xunlei.com/s/VNyx0PtWuyr8O3h3TEhJbuzKA1?pwd=qws4#)    提取码：efny
+- 图解设计模式  [下载链接](https://pan.xunlei.com/s/VNyx0PtWuyr8O3h3TEhJbuzKA1?pwd=qws4#)    提取码：yhuv
+- 重学Java设计模式·小傅哥  [下载链接](https://pan.xunlei.com/s/VNyx0PtWuyr8O3h3TEhJbuzKA1?pwd=qws4#)    提取码：rsmk
 
 # 有趣
-- 游戏开发物理学  [下载链接](https://pan.quark.cn/s/0ae1c46df882)    提取码：uogs
-- 奔跑吧，程序员：从零开始打造产品、技术和团队  [下载链接](https://pan.quark.cn/s/0ae1c46df882)    提取码：uphr
-- 正则表达式必知必会  [下载链接](https://pan.quark.cn/s/0ae1c46df882)    提取码：xebg
-- 自己动手写网络爬虫  [下载链接](https://pan.quark.cn/s/0ae1c46df882)    提取码：xrcw
-- 图灵的秘密  [下载链接](https://pan.quark.cn/s/0ae1c46df882)    提取码：erol
-- 编程人生  [下载链接](https://pan.quark.cn/s/0ae1c46df882)    提取码：gobd
-- 人月神话  [下载链接](https://pan.quark.cn/s/0ae1c46df882)    提取码：hnbm
-- 入侵的艺术 凯文.米特尼克  [下载链接](https://pan.quark.cn/s/0ae1c46df882)    提取码：jbeg
-- 黑客与画家  [下载链接](https://pan.quark.cn/s/0ae1c46df882)    提取码：jcqm
-- 浪潮之巅（完整版）  [下载链接](https://pan.quark.cn/s/0ae1c46df882)    提取码：cnhr
-- 数学之美  [下载链接](https://pan.quark.cn/s/0ae1c46df882)    提取码：euni
+- 游戏开发物理学  [下载链接](https://pan.xunlei.com/s/VNyx0FcEOpaWrFRQb3WstWtnA1?pwd=cvmt#)    提取码：uogs
+- 奔跑吧，程序员：从零开始打造产品、技术和团队  [下载链接](https://pan.xunlei.com/s/VNyx0FcEOpaWrFRQb3WstWtnA1?pwd=cvmt#)    提取码：uphr
+- 正则表达式必知必会  [下载链接](https://pan.xunlei.com/s/VNyx0FcEOpaWrFRQb3WstWtnA1?pwd=cvmt#)    提取码：xebg
+- 自己动手写网络爬虫  [下载链接](https://pan.xunlei.com/s/VNyx0FcEOpaWrFRQb3WstWtnA1?pwd=cvmt#)    提取码：xrcw
+- 图灵的秘密  [下载链接](https://pan.xunlei.com/s/VNyx0FcEOpaWrFRQb3WstWtnA1?pwd=cvmt#)    提取码：erol
+- 编程人生  [下载链接](https://pan.xunlei.com/s/VNyx0FcEOpaWrFRQb3WstWtnA1?pwd=cvmt#)    提取码：gobd
+- 人月神话  [下载链接](https://pan.xunlei.com/s/VNyx0FcEOpaWrFRQb3WstWtnA1?pwd=cvmt#)    提取码：hnbm
+- 入侵的艺术 凯文.米特尼克  [下载链接](https://pan.xunlei.com/s/VNyx0FcEOpaWrFRQb3WstWtnA1?pwd=cvmt#)    提取码：jbeg
+- 黑客与画家  [下载链接](https://pan.xunlei.com/s/VNyx0FcEOpaWrFRQb3WstWtnA1?pwd=cvmt#)    提取码：jcqm
+- 浪潮之巅（完整版）  [下载链接](https://pan.xunlei.com/s/VNyx0FcEOpaWrFRQb3WstWtnA1?pwd=cvmt#)    提取码：cnhr
+- 数学之美  [下载链接](https://pan.xunlei.com/s/VNyx0FcEOpaWrFRQb3WstWtnA1?pwd=cvmt#)    提取码：euni
 
 # 养生
 
-- 程序员健康指南 [下载链接](https://pan.quark.cn/s/15012d68b953)   
+- 程序员健康指南 [下载链接](https://pan.xunlei.com/s/VNyx03aNaXaR84AUJvDsWe8mA1?pwd=d3c6#)   
 
 # 免责声明
 
